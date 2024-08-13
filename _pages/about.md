@@ -15,7 +15,7 @@ I'm an associate editor for the following journals:
 - IEEE Transactions on Artificial Intelligence and 
 - Ad-Hoc Networks 
 
-I'm on the technical program committees for the following upcoming conferences including:
+I'm on the technical program committees for the following upcoming conferences:
 - __AAMAS 2025 (CORE A*)__
 - __ACM AsiaCCS 2025 (CORE A)__
 - __The Web Conference (2024) (CORE A*)__
