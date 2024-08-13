@@ -11,9 +11,7 @@ I am an Associate Professor in the school of computer and mathematical sciences 
 
 I'm leading a research group on Cyber-AI, applying new advances in AI to solve problems in network fragility and security. Our research evolves around developing autonomous and provable cyber defensive solutions. This means building and configuring systems that are secure by design and training trustworthy AI agents to help defend networked systems. By employing tools from graph theory, game theory and AI/ML we are able to develop practical solutions that help human operators deal with the complexity, fast-paced and deceptive nature of the cyber environments.
 
-I'm an associate editor for the following journals: 
-- IEEE Transactions on Artificial Intelligence and 
-- Ad-Hoc Networks 
+I'm an associate editor for (1) IEEE Transactions on Artificial Intelligence and (2) Elsevier Ad-Hoc Networks journals.
 
 I'm on the technical program committees for the following upcoming conferences:
 - __AAMAS 2025 (CORE A*)__
