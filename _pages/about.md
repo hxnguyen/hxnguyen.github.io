@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an Associate Professor in the school of computer and mathematical sciences and the leader of the Information warfare and advanced cyber theme within the Defence trailblazer, the University of Adelaide.
 
-I'm leading a research group on Cyber-AI, applying new advances in AI to solve problems in network fragility and security. Our research evolves around developing autonomous and provable cyber defensive solutions. This means building and configuring systems that are secure by design and training trustworthy AI agents to help defend networked systems. By employing tools from graph theory, game theory and AI/ML we are able to develop practical solutions that help human operators deal with the complexity, fast-paced and deceptive nature of the cyber environments.
+I lead a research group on Cyber-AI, applying new advances in AI to solve problems in network fragility and security. Our research evolves around developing autonomous and provable cyber defensive solutions. This means building and configuring systems that are secure by design and training trustworthy AI agents to help defend networked systems. By employing tools from graph theory, game theory and AI/ML we are able to develop practical solutions that help human operators deal with the complexity, fast-paced and deceptive nature of the cyber environments.
 
 I'm an associate editor for (1) IEEE Transactions on Artificial Intelligence and (2) Elsevier Ad-Hoc Networks journals.
 
