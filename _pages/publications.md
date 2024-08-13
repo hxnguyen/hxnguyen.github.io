@@ -7,12 +7,17 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
 ### 2024
+*  N Nguyen, D Nguyen, G Rizzo, H Nguyen(2024). United We Stand: Decentralized Multi-Agent Planning With Attrition. _To appear in Proceedings of the 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE_. 19-24 October 2024. Santiago de Compostela **CORE A**
+*  Zhang, Y., Ward, M., & Nguyen, H. (2024). Practical Anytime Algorithms for Judicious Partitioning of Active Directory Attack Graphs. _Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)_. August 3-9th, 2024, Jeju, South Korea. **CORE A***
+*  NL Nguyen, N Falkner, H Nguyen (2024). Synthesizing Realistic Enterprise Active Directory Attack Graphs with ADSynth. _Proceedings of the ACM SIGCOMM 2024 Conference: Posters and Demos_. August 04 2024, Sydney, Australia, pp. 107-109 **CORE A***
+*  N Nguyen, D Nguyen, J Kim, G Rizzo, H Nguyen(2024). Decentralized Coordination for Multi-Agent Data Collection in Dynamic Environments. _IEEE Transactions on Mobile Computing_. 2024 **CORE A***
+*   Ngo, Q. H, Guo. M.,Nguyen, H., ( (2024). Catch Me if You Can: Effective Honeypot Placement in Dynamic AD Attack Graphs. _Proceedings of the IEEE International Conference on Computer Communications (Infocom)_.  **CORE A***
 *   Guo, M., Li, J., Neumann, A., Neumann F. Nguyen, H., (2024). Limited Query Graph Connectivity Test. _Proceedings of the AAAI Conference on Artificial Intelligence_, 38(18), 20718-20725. https://doi.org/10.1609/aaai.v38i18.30059 **CORE A***
 *   Lang white, Duong Nguyen, Hung Nguyen (2024). Satisfaction and Regret in Stackelberg Games. _15th Workshop on Optimization and Learning in Multiagent Systems (AAMAS 2024 workshop)_.
 *   Nhu Long Do, Nick Falkner, Hung NGuyen (2024). ADSynth: Synthesizing Realistic Active Directory Graphs. _Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks_. Brisbane, Australia, June 24-27, 2024. **CORE A**
 *  Ngo, Q. H, Guo. M.,Nguyen, H., ( (2024). Optimizing Cyber Response Time on Temporal Active Directory Networks Using Decoys. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)_. **CORE A**
 *  Dinani, M.; Holzer, A.; Nguyen, H.; Marsan, M.; Rizzo, G. (2024).Context-Aware Orchestration of Energy-Efficient Gossip Learning Schemes. _Proceedings of the 5th IEEE World AI IoT Congress 2024_. Seattle USA 29-31 May 2024
-*  Zhang, Y., Ward, M., & Nguyen, H. (2024). Practical Anytime Algorithms for Judicious Partitioning of Active Directory Attack Graphs. _Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)_. August 3-9th, 2024, Jeju, South Korea. **CORE A***
+  
   
 ### 2023
 * Ngo, Q. H, Guo. M.,Nguyen, H., (2023). Catch Me if You Can: Effective Honeypot Placement in Dynamic AD Attack Graphs. To appear in _Proceedings of the  IEEE International Conference on Computer Communications (Infocom) 2024_ [Accepted 01 December 2023]. **CORE A***
