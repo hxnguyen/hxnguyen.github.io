@@ -16,7 +16,7 @@ I'm an associate editor for (1) IEEE Transactions on Artificial Intelligence and
 I'm on the technical program committees for the following upcoming conferences:
 - __The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025) (CORE A*)__
 - __The 20th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2025)(CORE A)__
-- __The Web Conference (2024) (CORE A*)__
+- __The Web Conference (2024, 2025) (CORE A*)__
 - __World Congress on AIIoT (2024)__
 - __Cyber Security and Privacy Workshop with IEEE COMSNETS (2024)__
 
