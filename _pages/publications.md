@@ -17,6 +17,7 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 *   Nhu Long Do, Nick Falkner, Hung NGuyen (2024). ADSynth: Synthesizing Realistic Active Directory Graphs. _Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks_. Brisbane, Australia, June 24-27, 2024. **CORE A**
 *  Ngo, Q. H, Guo. M.,Nguyen, H., ( (2024). Optimizing Cyber Response Time on Temporal Active Directory Networks Using Decoys. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)_. **CORE A**
 *  Dinani, M.; Holzer, A.; Nguyen, H.; Marsan, M.; Rizzo, G. (2024).Context-Aware Orchestration of Energy-Efficient Gossip Learning Schemes. _Proceedings of the 5th IEEE World AI IoT Congress 2024_. Seattle USA 29-31 May 2024
+*  Diksha Goel, Max Ward, Aneta Neumann, Frank Neumann, Hung Nguyen, Mingyu Guo (2024). Hardening Active Directory Graphs via Evolutionary Diversity Optimization based Policies. _ACM Transactions on Evolutionary Learning_. DOI: https://doi.org/10.1145/368840
   
   
 ### 2023
