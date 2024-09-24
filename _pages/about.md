@@ -18,7 +18,7 @@ I'm on the technical program committees for the following upcoming conferences:
 - __The 20th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2025)(CORE A)__
 - __The Web Conference (2024, 2025) (CORE A*)__
 
-I'm giving an invited talk at the RNDM 2024 conference in November, 2024 on Higher-graph models for security. Please check it out.
+I'm giving an invited talk at the RNDM 2024 conference in November 2024 on Higher-graph models for security. Please check it out.
 
 # News:
 - (21/04/2024): We are providing  2 PhD scholarships of up to $60K/year stipend  for research on AI and higher-graph models for network security. Please contact me directly if interested.
