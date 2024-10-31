@@ -7,7 +7,8 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
 ### 2024
-*  N Nguyen, D Nguyen, G Rizzo, H Nguyen(2024). United We Stand: Decentralized Multi-Agent Planning With Attrition. _To appear in Proceedings of the 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE_. 19-24 October 2024. Santiago de Compostela **CORE A**
+* Ameer Shakayb Arsalaan, Mah-Rukh Fida, Hung X Nguyen. UAVs Relay in Emergency Communications with Strict Requirements on Quality of Information. _To appear in IEEE Transactions on Vehicular Technology.**CORE A***
+*  N Nguyen, D Nguyen, G Rizzo, H Nguyen(2024). United We Stand: Decentralized Multi-Agent Planning With Attrition.  _Proceedings of the 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE_. 19-24 October 2024. Santiago de Compostela **CORE A**
 *  Zhang, Y., Ward, M., & Nguyen, H. (2024). Practical Anytime Algorithms for Judicious Partitioning of Active Directory Attack Graphs. _Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)_. August 3-9th, 2024, Jeju, South Korea. **CORE A***
 *  NL Nguyen, N Falkner, H Nguyen (2024). Synthesizing Realistic Enterprise Active Directory Attack Graphs with ADSynth. _Proceedings of the ACM SIGCOMM 2024 Conference: Posters and Demos_. August 04 2024, Sydney, Australia, pp. 107-109 **CORE A***
 *  N Nguyen, D Nguyen, J Kim, G Rizzo, H Nguyen(2024). Decentralized Coordination for Multi-Agent Data Collection in Dynamic Environments. _IEEE Transactions on Mobile Computing_. 2024 **CORE A***
