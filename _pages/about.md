@@ -7,23 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Professor in the school of computer and mathematical sciences and the leader of the Information warfare and advanced cyber theme within the Defence trailblazer, the University of Adelaide.
+I am a Professor and Academic Lead for Cybersecurity and Networking in the School of Computer Science and Information Technology, College of Engineering and Information Technology, at Adelaide University. I currently serve as the Theme Lead for Information Warfare and Advanced Cyber within the Defence Trailblazer program, a joint initiative between Adelaide University and UNSW.
 
-I lead a research group on Cyber-AI, applying new advances in AI to solve problems in network fragility and security. Our research evolves around developing autonomous and provable cyber defensive solutions. This means building and configuring systems that are secure by design and training trustworthy AI agents to help defend networked systems. By employing tools from graph theory, game theory and AI/ML we are able to develop practical solutions that help human operators deal with the complexity, fast-paced and deceptive nature of the cyber environments.
+I established and lead the Cyber-AI Research Group at Adelaide University, which focuses on applying advances in artificial intelligence to challenges in network reliability and security. My research centres on developing autonomous and provably robust cyber‑defence capabilities. This includes designing systems that are secure by design and developing trustworthy AI agents that support the defence of complex networked environments. By integrating methods from graph theory, game theory, and machine learning, my group develops practical solutions that enhance human operators’ ability to manage the scale, complexity, speed, and adversarial nature of modern cyber operations.
 
 I'm an associate editor for (1) IEEE Transactions on Artificial Intelligence and (2) Elsevier Ad-Hoc Networks journals.
 
-I'm on the technical program committees for the following upcoming conferences:
-- __The 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025) (CORE A*)__
-- __The 20th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2025)(CORE A)__
-- __The Web Conference (2024, 2025) (CORE A*)__
+I serve as an Associate Editor for IEEE Transactions on Artificial Intelligence and Elsevier Ad Hoc Networks. I am also a member of the Technical Program Committees for leading international conferences on AI and cybersecurity, including AAMAS 2026 (CORE A*), AAAI 2026 (CORE A*), The Web Conference 2026 (CORE A*), and IJCAI 2026 (CORE A*).
 
-I'm giving an invited talk at the RNDM 2024 conference in November 2024 on Higher-graph models for security. Please check it out.
 
 # News:
-- (21/04/2024): We are providing  2 PhD scholarships of up to $60K/year stipend  for research on AI and higher-graph models for network security. Please contact me directly if interested.
-- (21/04/2024): We are recruiting a post-doc to work on a 2.5-year research project on higher-graph models for network security. Please contact me directly if interested.
-- (21/04/2024): We are recruiting a post-doc to work on our industry-funded project on IoT security, please consider applying. See the position description [here](https://careers.adelaide.edu.au/cw/en/job/512206/postdoctoral-researcher-ab-resilient-platform-interfaces).
-- We are offering generous research scholarships (PhDs and Masters) and summer research scholarships (undergraduates) on applying Artificial Intelligence/Machine Learning and Game Theory to solve problems in network (anti)fragility and security.
+- We are offering generous research scholarships (PhDs and Masters) and summer research scholarships (undergraduates) on AI agent security.
 
 Please contact me directly with your CV if interested.
