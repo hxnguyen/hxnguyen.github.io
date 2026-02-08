@@ -8,10 +8,12 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 
 ### 2025
 * Nhat Nguyen, Duong Nguyen, Junae Kim, Gianluca Rizzo, Hung X  Nguyen. 	
-Survive and Thrive: Decentralized Multi-Agent Coordination Under Attrition Risks. IEEE Transactions on Mobile Computing, 2025_. **CORE A***
-* Nhu Long Nguyen, Nickolas Falkner, Hung X Nguyen. Scalable Active Directory Defense with α-Metagraph. The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025), Gold Coast, Australia, on 19-22 October, 2025_. **CORE A**
-* Diksha Goel, Max Ward, Aneta Neumann, Frank Neumann, Hung Nguyen, Mingyu Guo. Hardening Active Directory Graphs via Evolutionary Diversity Optimization-based Policies. ACM Transactions on Evolutionary Learning, 2025_. **CORE A**
+Survive and Thrive: Decentralized Multi-Agent Coordination Under Attrition Risks. IEEE Transactions on Mobile Computing, 2025. **CORE A***
+* Nhu Long Nguyen, Nickolas Falkner, Hung X Nguyen. Scalable Active Directory Defense with α-Metagraph. The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025), Gold Coast, Australia, on 19-22 October, 2025. **CORE A**
+* Diksha Goel, Max Ward, Aneta Neumann, Frank Neumann, Hung Nguyen, Mingyu Guo. Hardening Active Directory Graphs via Evolutionary Diversity Optimization-based Policies. ACM Transactions on Evolutionary Learning, 2025. **CORE A**
 * Yumeng Zhang, Max Ward, Hung Nguyen. Rethinking Attack Path Management: A New Metric for Choke Points in Attack Graphs. The 38th IEEE Computer Security Foundations Symposium (CSF 2025), 2025_. **CORE A**
+
+
 ### 2024
 * Ameer Shakayb Arsalaan, Mah-Rukh Fida, Hung X Nguyen. UAVs Relay in Emergency Communications with Strict Requirements on Quality of Information. in IEEE Transactions on Vehicular Technology_. **CORE A***
 *  N Nguyen, D Nguyen, G Rizzo, H Nguyen(2024). United We Stand: Decentralized Multi-Agent Planning With Attrition.  _Proceedings of the 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE_. 19-24 October 2024. Santiago de Compostela **CORE A**
