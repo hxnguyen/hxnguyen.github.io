@@ -7,8 +7,8 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
 ### 2026
-* Nhat Nguyen, Duong Nguyen, Gianluca Rizzo, Hung Nguyen. Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning. \emph{Accepted to appear in Proc. of the 36th International Conference on Automated Planning and Scheduling (ICAPS)}. June 2026. **CORE A***
-* Tu Vu and Hung Nguyen. Toward Human-Aware Active Directory Defense with Fine-Tuned LLMs. \emph{Accepted to appear in Proc. of  AAAI 2026 Summer Symposium on Human-Aware AI Agents for the Cyber Battlefield: From Human Models to Autonomous Defense}. June 2026.
+* Nhat Nguyen, Duong Nguyen, Gianluca Rizzo, Hung Nguyen. Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning. _Accepted to appear in Proc. of the 36th International Conference on Automated Planning and Scheduling (ICAPS)_. June 2026. **CORE A***
+* Tu Vu and Hung Nguyen. Toward Human-Aware Active Directory Defense with Fine-Tuned LLMs. _Accepted to appear in Proc. of  AAAI 2026 Summer Symposium on Human-Aware AI Agents for the Cyber Battlefield: From Human Models to Autonomous Defense_. June 2026.
 
 
 ### 2025
