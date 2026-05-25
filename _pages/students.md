@@ -9,18 +9,23 @@ author_profile: true
 
 Current
 ======
-* Nhat Anh Dao Nguyen, (2021 - )
-* James Cormack (2021 - ) (co-supervisor)
-* Jialliang Li (2021 - ) (co-supervisor)
-* Yumeng Zhang (2022 - )
-* Blake Donelly (2022 -)
-* Quang Huy Ngo (2022 - )
+* Yingxin Xu (2025 -)
+* Quoc Dat Ngo (2025 - )
+* Samir Khan (MPhil, 2025 -)
+* JinYang Li (2026 - ) 
+* Akshath Rajan (MRes, 2026 - )
+* Shafia Husna (2026, - )
+* Ben Lang (MPhil, co-sup)
 * Ben Luo (2022 - )
-* Nhu Long Nguyen (2023 - )
-
 
 Past
 ======
-* Duong Duc Nguyen (PhD, currently at DSTG)
-* Dung Ba Le (PhD)
-* Ameer Arsalaan (PhD, Currently at University of Swabi)
+* Yumeng Zhang (PhD)
+* Blake Donelly (MPhil)
+* Quang Huy Ngo (PhD)
+* Nhu Long Nguyen (MPhil)
+* Duong Duc Nguyen (PhD, co-sup)
+* Dung Ba Le (PhD, co-sup)
+* Ameer Arsalaan (PhD)
+* Nhat Anh Dao Nguyen, (PhD)
+* Jialliang Li (MPhil, co-sup)
