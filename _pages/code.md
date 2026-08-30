@@ -5,22 +5,22 @@ permalink: /code/
 author_profile: true
 ---
 
-#  <a href="https://adsynthesizer.github.io/"> ADSynthesizer </a>
+#  <a href="https://aucyberlab.github.io/adsynthesizer/"> ADSynthesizer </a>
 
 We build a realistic Active Directory attack graph generator using metagraph abstractions.
 
-![Alt text](https://hxnguyen.github.io/images/adsynth.png "a title")
-![Alt text](https://hxnguyen.github.io/images/ad_and_attack.jpeg "a title")
+![ADSynth-generated Active Directory attack graph](https://hxnguyen.github.io/images/adsynth.png "ADSynth")
+![Active Directory attack graph example](https://hxnguyen.github.io/images/ad_and_attack.jpeg "Active Directory attack graph")
 
 
 #  <a href="http://autonetkit.org"> Autonetkit </a>
 
 I built  the first version of Autonetkit - open source code to automatically  generate emulations of large networks with sophisticated policies. Autonetkit is now used in the Cisco VIRL lab.
 
-![Alt text](https://hxnguyen.github.io/images/autonetkit.png "a title")
+![AutoNetkit network emulation](https://hxnguyen.github.io/images/autonetkit.png "AutoNetkit")
 
 
-#  <a href="http://autonetkit.org](https://github.com/dinesharanathunga/mgtoolkit"> MGtoolkit </a>
+#  <a href="https://github.com/dinesharanathunga/mgtoolkit"> MGtoolkit </a>
 
 Mgtoolkit is a python package for modelling and analysing  metagraphs - a special type of hypergraph. We used metagraphs for modelling network security policies.
 

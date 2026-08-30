@@ -15,27 +15,25 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 * Nhat Nguyen, Duong Nguyen, Junae Kim, Gianluca Rizzo, Hung X  Nguyen. 	
 Survive and Thrive: Decentralized Multi-Agent Coordination Under Attrition Risks. IEEE Transactions on Mobile Computing, 2025. **CORE A***
 * Nhu Long Nguyen, Nickolas Falkner, Hung X Nguyen. Scalable Active Directory Defense with α-Metagraph. The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025), Gold Coast, Australia, on 19-22 October, 2025. **CORE A**
-* Diksha Goel, Max Ward, Aneta Neumann, Frank Neumann, Hung Nguyen, Mingyu Guo. Hardening Active Directory Graphs via Evolutionary Diversity Optimization-based Policies. ACM Transactions on Evolutionary Learning, 2025. **CORE A**
-* Yumeng Zhang, Max Ward, Hung Nguyen. Rethinking Attack Path Management: A New Metric for Choke Points in Attack Graphs. The 38th IEEE Computer Security Foundations Symposium (CSF 2025), 2025_. **CORE A**
+* Diksha Goel, Max Ward, Aneta Neumann, Frank Neumann, Hung Nguyen, Mingyu Guo. Hardening Active Directory Graphs via Evolutionary Diversity Optimization-based Policies. _ACM Transactions on Evolutionary Learning_, 2025. https://doi.org/10.1145/3688401 **CORE A**
+* Yumeng Zhang, Max Ward, Hung Nguyen. Rethinking Attack Path Management: A New Metric for Choke Points in Attack Graphs. The 38th IEEE Computer Security Foundations Symposium (CSF 2025), 2025. **CORE A**
 
 
 ### 2024
-* Ameer Shakayb Arsalaan, Mah-Rukh Fida, Hung X Nguyen. UAVs Relay in Emergency Communications with Strict Requirements on Quality of Information. in IEEE Transactions on Vehicular Technology_. **CORE A***
+* Ameer Shakayb Arsalaan, Mah-Rukh Fida, Hung X Nguyen. UAVs Relay in Emergency Communications with Strict Requirements on Quality of Information. _IEEE Transactions on Vehicular Technology_. **CORE A***
 *  N Nguyen, D Nguyen, G Rizzo, H Nguyen(2024). United We Stand: Decentralized Multi-Agent Planning With Attrition.  _Proceedings of the 27TH EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE_. 19-24 October 2024. Santiago de Compostela **CORE A**
 *  Zhang, Y., Ward, M., & Nguyen, H. (2024). Practical Anytime Algorithms for Judicious Partitioning of Active Directory Attack Graphs. _Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)_. August 3-9th, 2024, Jeju, South Korea. **CORE A***
 *  NL Nguyen, N Falkner, H Nguyen (2024). Synthesizing Realistic Enterprise Active Directory Attack Graphs with ADSynth. _Proceedings of the ACM SIGCOMM 2024 Conference: Posters and Demos_. August 04 2024, Sydney, Australia, pp. 107-109 **CORE A***
 *  N Nguyen, D Nguyen, J Kim, G Rizzo, H Nguyen(2024). Decentralized Coordination for Multi-Agent Data Collection in Dynamic Environments. _IEEE Transactions on Mobile Computing_. 2024 **CORE A***
-*   Ngo, Q. H, Guo. M.,Nguyen, H., ( (2024). Catch Me if You Can: Effective Honeypot Placement in Dynamic AD Attack Graphs. _Proceedings of the IEEE International Conference on Computer Communications (Infocom)_.  **CORE A***
+*   Ngo, Q. H, Guo. M.,Nguyen, H. (2024). Catch Me if You Can: Effective Honeypot Placement in Dynamic AD Attack Graphs. _Proceedings of the IEEE International Conference on Computer Communications (Infocom)_.  **CORE A***
 *   Guo, M., Li, J., Neumann, A., Neumann F. Nguyen, H., (2024). Limited Query Graph Connectivity Test. _Proceedings of the AAAI Conference on Artificial Intelligence_, 38(18), 20718-20725. https://doi.org/10.1609/aaai.v38i18.30059 **CORE A***
-*   Lang white, Duong Nguyen, Hung Nguyen (2024). Satisfaction and Regret in Stackelberg Games. _15th Workshop on Optimization and Learning in Multiagent Systems (AAMAS 2024 workshop)_.
-*   Nhu Long Do, Nick Falkner, Hung NGuyen (2024). ADSynth: Synthesizing Realistic Active Directory Graphs. _Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks_. Brisbane, Australia, June 24-27, 2024. **CORE A**
-*  Ngo, Q. H, Guo. M.,Nguyen, H., ( (2024). Optimizing Cyber Response Time on Temporal Active Directory Networks Using Decoys. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)_. **CORE A**
+*   Lang White, Duong Nguyen, Hung Nguyen (2024). Satisfaction and Regret in Stackelberg Games. _15th Workshop on Optimization and Learning in Multiagent Systems (AAMAS 2024 workshop)_.
+*   Nhu Long Do, Nick Falkner, Hung Nguyen (2024). ADSynth: Synthesizing Realistic Active Directory Graphs. _Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks_. Brisbane, Australia, June 24-27, 2024. **CORE A**
+*  Ngo, Q. H, Guo. M.,Nguyen, H. (2024). Optimizing Cyber Response Time on Temporal Active Directory Networks Using Decoys. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)_. **CORE A**
 *  Dinani, M.; Holzer, A.; Nguyen, H.; Marsan, M.; Rizzo, G. (2024).Context-Aware Orchestration of Energy-Efficient Gossip Learning Schemes. _Proceedings of the 5th IEEE World AI IoT Congress 2024_. Seattle USA 29-31 May 2024
-*  Diksha Goel, Max Ward, Aneta Neumann, Frank Neumann, Hung Nguyen, Mingyu Guo (2024). Hardening Active Directory Graphs via Evolutionary Diversity Optimization based Policies. _ACM Transactions on Evolutionary Learning_. DOI: https://doi.org/10.1145/368840
   
   
 ### 2023
-* Ngo, Q. H, Guo. M.,Nguyen, H., (2023). Catch Me if You Can: Effective Honeypot Placement in Dynamic AD Attack Graphs. To appear in _Proceedings of the  IEEE International Conference on Computer Communications (Infocom) 2024_ [Accepted 01 December 2023]. **CORE A***
 * Nguyen L., Nguyen D., Nguyen H., Ngo, D.,  Wagner M., (2023). Multi-Agent Task Assignment in Vehicular Edge Computing: A Regret-Matching Learning-Based Approach. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI: 10.1109/TETCI.2023.3339540.
 * Dinani, M.; Holzer, A.; Nguyen, H.; Marsan, M.; Rizzo, G.. A Gossip Learning Approach to Urban Trajectory Nowcasting for Anticipatory RAN Management. _IEEE Transactions on Mobile Computing_, September 2023. **CORE A***
 * Chowdhury, A., Nguyen, H., CoZure:  Context Free Grammar Co-Pilot Tool for Finding New Lateral Movements in Azure Active Directory, _Procs. of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)_, October 2023, Hong Kong. **CORE A**
@@ -85,7 +83,7 @@ Survive and Thrive: Decentralized Multi-Agent Coordination Under Attrition Risks
 
 ### 2017
 * Ranathunga, D., Nguyen, H., & Roughan, M. (2017). MGtoolkit: A python package for implementing metagraphs. _SoftwareX_, _6_, 91–93.
-* Nguyen, D. D., Nguyen, H. X., & White, L. B. (2017). Reinforcement learning with network-assisted feedback for heterogeneous RAT selection. _IEEE Transactions on Wireless Communications_, _16_(9), 6062–6076. **CORE A***
+* Nguyen, D. D., Nguyen, H. X., & White, L. B. (2017). Reinforcement learning with network-assisted feedback for heterogeneous RAT selection. _IEEE Transactions on Wireless Communications_, _16_(9), 6062–6076. **CORE A*** [[PDF]](/files/RAT_Selection.pdf)
 * Le, B.-D., Nguyen, H. X., Shen, H., & Falkner, N. (2017). GLFR: A generalized LFR benchmark for testing community detection algorithms. _2017 26th International Conference on Computer Communication and Networks (ICCCN)_, 1–9. IEEE. **CORE A**
 
 ### 2016
@@ -135,8 +133,8 @@ Survive and Thrive: Decentralized Multi-Agent Coordination Under Attrition Risks
 *  Nguyen, Hung X., & Roughan, M. (2008). On the correlation of internet packet losses. _2008 Australasian Telecommunication Networks and Applications Conference_, 22–27. IEEE.
 
 ### 2007 
-* Nguyen, Hung Xuan, & Thiran, P. (2007). The boolean solution to the congested IP link location problem: Theory and practice. _IEEE INFOCOM 2007-26th IEEE International Conference on Computer Communications_, 2117–2125. IEEE. **CORE A***
-* Nguyen, Hung X., & Thiran, P. (2007). Network loss inference with second order statistics of end-to-end flows. _Proceedings of the 7th ACM SIGCOMM Conference on Internet Measurement_, 227–240. **CORE A***
+* Nguyen, Hung Xuan, & Thiran, P. (2007). The boolean solution to the congested IP link location problem: Theory and practice. _IEEE INFOCOM 2007-26th IEEE International Conference on Computer Communications_, 2117–2125. IEEE. **CORE A*** [[PDF]](/files/boolean.pdf)
+* Nguyen, Hung X., & Thiran, P. (2007). Network loss inference with second order statistics of end-to-end flows. _Proceedings of the 7th ACM SIGCOMM Conference on Internet Measurement_, 227–240. **CORE A*** [[PDF]](/files/network_loss_imc2007.pdf)
 
 ### 2006 
 * Nguyen, Hung Xuan, & Thiran, P. (2006). Using end-to-end data to infer lossy links in sensor networks. _IEEE Infocom 2006_. **CORE A***
