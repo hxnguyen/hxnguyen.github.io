@@ -24,6 +24,9 @@ I built  the first version of Autonetkit - open source code to automatically  ge
 
 Mgtoolkit is a python package for modelling and analysing  metagraphs - a special type of hypergraph. We used metagraphs for modelling network security policies.
 
+
+More code from my research group is available on the <a href="https://github.com/AUCyberLab"> AUCyberLab GitHub </a>.
+
 {% include base_path %}
 
 {% for post in site.code reversed %} 

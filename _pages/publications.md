@@ -7,8 +7,11 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
 ### 2026
-* Nhat Nguyen, Duong Nguyen, Gianluca Rizzo, Hung Nguyen. Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning. _Accepted to appear in Proc. of the 36th International Conference on Automated Planning and Scheduling (ICAPS)_. June 2026. **CORE A***
-* Tu Vu and Hung Nguyen. Toward Human-Aware Active Directory Defense with Fine-Tuned LLMs. _Accepted to appear in Proc. of  AAAI 2026 Summer Symposium on Human-Aware AI Agents for the Cyber Battlefield: From Human Models to Autonomous Defense_. June 2026.
+* Yumeng Zhang, Hung Nguyen. DisCoConnect: Computing connectivity in hypergraph category string diagrams via metagraph algorithms. _SoftwareX_, 35, 102779, 2026. https://doi.org/10.1016/j.softx.2026.102779
+* Eric Parsonage, Matthew Roughan, Hung X Nguyen. Transitivity preserving projection in directed hypergraphs. _Theoretical Computer Science_, 116141, 2026. https://doi.org/10.1016/j.tcs.2026.116141
+* Tu Vu and Hung Nguyen. Toward Human-Aware Active Directory Defense with Fine-Tuned LLMs. _Proceedings of the AAAI Symposium Series (AAAI 2026 Summer Symposium on Human-Aware AI Agents for the Cyber Battlefield)_, 9(1), 332-335, June 2026.
+* Nhat Nguyen, Duong Nguyen, Gianluca Rizzo, Hung Nguyen. Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning. _Proc. of the 36th International Conference on Automated Planning and Scheduling (ICAPS)_. June 2026. **CORE A***
+* Shahzeb Aslam, Hung Nguyen. ICSim++: A CAN/CAN FD simulator for modern vehicle networks with LLM-assisted workflows. _SoftwareX_, 34, 102722, 2026. https://doi.org/10.1016/j.softx.2026.102722
 
 
 ### 2025

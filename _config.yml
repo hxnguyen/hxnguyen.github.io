@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hung X Nguyen"
 title_separator          : "-"
 name                     : &name "Hung X Nguyen"
-description              : &description "personal description"
+description              : &description "Personal academic website of Hung X Nguyen, Professor of Cybersecurity and Networking at Adelaide University"
 url                      : https://hxnguyen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hxnguyen/hxnguyen.github.io"
