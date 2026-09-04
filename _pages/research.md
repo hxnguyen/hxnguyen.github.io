@@ -32,7 +32,7 @@ Selected completed projects
 Research translation
 ======
 
-Our research translation activities produce demonstrators, software, datasets, and operational prototypes that allow research outcomes to be evaluated with industry and government partners. The Resilient Platform Interfaces demonstrator is being prepared for further demonstration activity, including Cisco Live Melbourne in November 2026.
+Our research translation activities produce demonstrators, software, datasets, and operational prototypes that allow research outcomes to be evaluated with industry and government partners.
 
 <!-- The hexagon diagram below lists seven older themes (tactical comms, MLSecOps, UAV)
      that no longer match the three current themes above, and it omits AI agent security.
