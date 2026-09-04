@@ -7,20 +7,6 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
-Selected recent publications
-======
-
-These eight papers best represent my current agenda in AI agent security, autonomous enterprise defence, multi-agent systems, and cyber-physical security.
-
-* Vu, T., & Nguyen, H. X. (2026). Toward human-aware Active Directory defense with fine-tuned LLMs. _Proceedings of the AAAI Symposium Series_, 9(1), 332–335.
-* Nguyen, N., Nguyen, D. D., Rizzo, G., & Nguyen, H. X. (2026). Boltzmann-based exploration for robust decentralized multi-agent planning. _Proceedings of the 36th International Conference on Automated Planning and Scheduling (ICAPS 2026)_. **CORE A\***
-* Aslam, S., & Nguyen, H. X. (2026). ICSim++: A CAN/CAN FD simulator for modern vehicle networks with LLM-assisted workflows. _SoftwareX_, 34, 102722. https://doi.org/10.1016/j.softx.2026.102722
-* Parsonage, E., Roughan, M., & Nguyen, H. X. (2026). Transitivity preserving projection in directed hypergraphs. _Theoretical Computer Science_, 116141. https://doi.org/10.1016/j.tcs.2026.116141
-* Nguyen, N. L., Falkner, N., & Nguyen, H. X. (2025). Scalable Active Directory defense with α-metagraph. _Proceedings of the 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025)_. **CORE A**
-* Zhang, Y., Ward, M., & Nguyen, H. X. (2025). Rethinking attack path management: A new metric for choke points in attack graphs. _Proceedings of the 38th IEEE Computer Security Foundations Symposium (CSF 2025)_. **CORE A**
-* Nguyen, N., Nguyen, D. D., Kim, J., Rizzo, G., & Nguyen, H. X. (2025). Survive and thrive: Decentralized multi-agent coordination under attrition risks. _IEEE Transactions on Mobile Computing_. **CORE A\***
-* Ngo, Q. H., Guo, M., & Nguyen, H. X. (2024). Catch me if you can: Effective honeypot placement in dynamic Active Directory attack graphs. _Proceedings of the IEEE International Conference on Computer Communications (INFOCOM 2024)_. **CORE A\***
-
 All publications
 ======
 
