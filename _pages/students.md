@@ -9,7 +9,8 @@ author_profile: true
 
 Current
 ======
-* Yingxin Xu (2025 -)
+* Dat Nguyen (2026 - )
+* Yingxin Xu (2025 - )
 * Quoc Dat Ngo (2025 - )
 * Samir Khan (MPhil, 2025 -)
 * JinYang Li (2026 - ) 
