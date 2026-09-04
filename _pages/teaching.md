@@ -1,23 +1,20 @@
 ---
 layout: archive
-title: "Courses"
+title: "Teaching and educational leadership"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-These are the courses I teach at Adelaide University. Course materials could be found on the corresponding University's pages.
+My teaching and educational leadership focus on cybersecurity and networking at Adelaide University. Please consult the Adelaide University course catalogue for current course offerings.
 
-2023
+As Academic Lead for Cybersecurity and Networking, I am responsible for the academic oversight of the cybersecurity and networking curriculum in the School of Computer Science and Information Technology, including course structure, teaching quality, and staffing across that discipline area.
+
+Selected previous teaching
 ======
-* Cybersecurity Fundamentals (Undergraduate course)
-* Parallel and Distributed Computing (Course Coordinator only)
-* Hot Topics in IoT Security (Master level course)
-* Applied Privacy ( Master, online)
-  
-2022
-======
-* Parallel and Distributed Computing (Course Coordinator only)
-* Hot Topics in IoT Security (Master level course)
-* Applied Privacy (Master, online)
+
+* Cybersecurity Fundamentals
+* Hot Topics in IoT Security
+* Applied Privacy
+* Parallel and Distributed Computing
