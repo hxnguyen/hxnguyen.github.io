@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /about/
 title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
 I am a Professor and Academic Lead for Cybersecurity and Networking in the School of Computer Science and Information Technology at Adelaide University. I lead the Cyber-AI Research Group, which develops autonomous and robust methods for securing AI agents, enterprise networks, and cyber-physical systems.

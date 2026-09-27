@@ -1,0 +1,343 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hung X Nguyen</title>
+<meta name="description" content="Professor at Adelaide University. AI security and safety, and algorithmic defence of enterprise networks.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap">
+<style>
+  :root {
+    --paper:  #F5F7FA;
+    --surface:#FFFFFF;
+    --ink:    #111A24;
+    --slate:  #56616F;
+    --rule:   #D9DFE6;
+    --accent: #1F5B85;
+    --accent-hover: #174769;
+    --attack: #B3262E;
+    --attack-soft: #F7E3E4;
+    --tag-bg: #EEF2F6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper:  #0E141B; --surface:#151D26; --ink: #E4E9EF; --slate: #9AA5B2; --rule: #283341;
+      --accent: #7FB2DA; --accent-hover: #A6CAE7; --attack: #E5646B; --attack-soft: #3A1B1F; --tag-bg: #1C2632;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper:  #0E141B; --surface:#151D26; --ink: #E4E9EF; --slate: #9AA5B2; --rule: #283341;
+    --accent: #7FB2DA; --accent-hover: #A6CAE7; --attack: #E5646B; --attack-soft: #3A1B1F; --tag-bg: #1C2632;
+  }
+
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0; background: var(--paper); color: var(--ink);
+    font: 400 1.0625rem/1.6 "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+    padding-inline: 16px;
+  }
+  .wrap { max-width: 1040px; margin: 0 auto; }
+  a { color: var(--accent); text-decoration: none; text-underline-offset: 3px; }
+  a:hover { color: var(--accent-hover); text-decoration: underline; }
+  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+  h1, h2, .featured h3 { font-family: "Newsreader", Georgia, "Times New Roman", serif; font-weight: 500; text-wrap: balance; }
+  p { margin: 0 0 1em; }
+
+  .bar { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 8px 24px; padding-block: 20px; border-bottom: 1px solid var(--rule); }
+  .bar .who { font-weight: 600; color: var(--ink); }
+  .bar nav { display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: .9375rem; }
+  .bar nav a { color: var(--slate); }
+  .bar nav a:hover { color: var(--ink); }
+
+  .hero { display: grid; gap: 36px; padding-block: 56px 48px; grid-template-columns: 1fr; align-items: center; }
+  @media (min-width: 860px) { .hero { grid-template-columns: 1.08fr 1fr; gap: 48px; padding-block: 72px 56px; } }
+  .hero h1 { font-size: clamp(2.1rem, 1.5rem + 2.4vw, 3.1rem); line-height: 1.08; margin: 0 0 10px; letter-spacing: -.01em; }
+  .role { color: var(--slate); margin: 0 0 22px; font-size: 1rem; }
+  .agenda { font-family: "Newsreader", Georgia, serif; font-weight: 500; font-size: clamp(1.25rem, 1.1rem + .6vw, 1.5rem); line-height: 1.35; margin: 0 0 16px; max-width: 34ch; text-wrap: balance; }
+  .lede { color: var(--slate); max-width: 60ch; }
+  .links { display: flex; flex-wrap: wrap; gap: 6px 22px; margin-top: 22px; font-size: .9375rem; font-weight: 500; }
+
+  figure { margin: 0; }
+  .graph { background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; padding: 18px 18px 14px; }
+  .graph svg { display: block; width: 100%; height: auto; }
+  .graph figcaption { font-size: .875rem; color: var(--slate); margin-top: 10px; line-height: 1.5; }
+  .legend { display: flex; flex-wrap: wrap; gap: 4px 18px; font-size: .8125rem; color: var(--slate); margin-top: 8px; }
+  .legend span { display: inline-flex; align-items: center; gap: 7px; }
+  .dot { width: 11px; height: 11px; border-radius: 50%; display: inline-block; border: 2px solid var(--slate); background: var(--surface); }
+  .dot.seed { background: var(--attack); border-color: var(--attack); }
+  .dot.adopt { background: var(--attack-soft); border-color: var(--attack); }
+
+  .g-node  { fill: var(--surface); stroke: var(--slate); stroke-width: 1.5; }
+  .g-seed  { fill: var(--attack); stroke: var(--attack); stroke-width: 1.5; }
+  .g-adopt { fill: var(--attack-soft); stroke: var(--attack); stroke-width: 2; }
+  .g-doc   { fill: var(--surface); stroke: var(--slate); stroke-width: 1.5; }
+  .g-fold  { fill: none; stroke: var(--slate); stroke-width: 1.5; }
+  .g-dline { stroke: var(--slate); stroke-width: 1.2; opacity: .45; }
+  .g-dhot  { stroke: var(--attack); stroke-width: 2.2; }
+  .g-read  { stroke: var(--attack); stroke-width: 1.6; fill: none; }
+  .g-post  { stroke: var(--attack); stroke-width: 2; fill: none; }
+  .g-brk   { stroke: var(--accent); stroke-width: 1.5; fill: none; }
+  .g-label { fill: var(--ink); font: 500 11px "IBM Plex Sans", sans-serif; }
+  .g-elabel{ fill: var(--slate); font: 400 10.5px "IBM Plex Sans", sans-serif; }
+  .g-hot   { fill: var(--attack); font: 600 10.5px "IBM Plex Sans", sans-serif; }
+  .g-mon   { fill: var(--accent); font: 600 10.5px "IBM Plex Sans", sans-serif; }
+  .arr-attack { fill: var(--attack); }
+
+  section { padding-block: 44px; border-top: 1px solid var(--rule); }
+  section h2 { font-size: 1.625rem; margin: 0 0 24px; line-height: 1.2; }
+  .sec-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 8px 20px; }
+  .sec-head a { font-size: .9375rem; font-weight: 500; }
+
+  /* the lead program gets the room; the other two sit beneath it */
+  .featured { display: grid; gap: 20px 56px; grid-template-columns: 1fr; padding-bottom: 36px; margin-bottom: 36px; border-bottom: 1px solid var(--rule); }
+  @media (min-width: 860px) { .featured { grid-template-columns: 1.25fr 1fr; } }
+  .featured h3 { font-size: 1.5rem; line-height: 1.25; margin: 0 0 12px; }
+  .featured p { color: var(--slate); }
+  .kp { font-size: .8125rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--slate); margin: 0 0 10px; }
+  .plist { list-style: none; margin: 0; padding: 0; font-size: .9375rem; }
+  .plist li { padding-block: 9px; border-bottom: 1px solid var(--rule); line-height: 1.45; }
+  .plist li:first-child { padding-top: 0; }
+  .plist .v { color: var(--slate); white-space: nowrap; }
+
+  .programs { display: grid; gap: 32px; grid-template-columns: 1fr; }
+  @media (min-width: 800px) { .programs { grid-template-columns: 1fr 1fr; gap: 48px; } }
+  .program h3 { font-size: 1.0625rem; font-weight: 600; margin: 0 0 8px; line-height: 1.35; }
+  .program p { color: var(--slate); font-size: .96875rem; }
+  .program .plist { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--rule); font-size: .90625rem; }
+
+  .pubs { list-style: none; margin: 0; padding: 0; }
+  .pub { display: grid; gap: 4px 24px; padding-block: 16px; border-bottom: 1px solid var(--rule); grid-template-columns: 1fr; }
+  .pub:first-child { padding-top: 0; }
+  @media (min-width: 760px) { .pub { grid-template-columns: 8rem 1fr; } }
+  .pub .venue { font-weight: 600; font-size: .9375rem; font-variant-numeric: tabular-nums; }
+  .rank { display: inline-block; margin-top: 4px; padding: 1px 6px; border-radius: 3px; font-size: .6875rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; background: var(--tag-bg); color: var(--slate); }
+  .rank.top { color: var(--accent); }
+  .pub .title { font-weight: 500; color: var(--ink); }
+  .pub .title:hover { color: var(--accent); }
+  .pub .authors { color: var(--slate); font-size: .9375rem; }
+  .pub .authors b { color: var(--ink); font-weight: 600; }
+  .pub .res { font-size: .875rem; margin-top: 2px; display: flex; flex-wrap: wrap; gap: 2px 14px; }
+  .pending { color: var(--slate); font-weight: 500; border-bottom: 1px dashed var(--slate); }
+
+  .split { display: grid; gap: 40px; grid-template-columns: 1fr; }
+  @media (min-width: 800px) { .split { grid-template-columns: 1fr 1fr; gap: 56px; } }
+  .news { list-style: none; margin: 0; padding: 0; }
+  .news li { display: grid; grid-template-columns: 3.5rem 1fr; gap: 16px; padding-block: 10px; border-bottom: 1px solid var(--rule); font-size: .96875rem; }
+  .news time { color: var(--slate); font-variant-numeric: tabular-nums; font-weight: 500; }
+  .join { background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; padding: 24px 24px 20px; }
+  .join h2 { font-size: 1.375rem; margin-bottom: 12px; }
+  .join p { color: var(--slate); font-size: .96875rem; }
+  .join p:last-child { margin-bottom: 0; }
+
+  footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; padding-block: 28px 40px; border-top: 1px solid var(--rule); color: var(--slate); font-size: .875rem; }
+  footer nav { display: flex; flex-wrap: wrap; gap: 4px 18px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="bar">
+    <a class="who" href="#top">Hung X Nguyen</a>
+    <nav aria-label="Primary">
+      <a href="#research">Research</a>
+      <a href="#publications">Publications</a>
+      <a href="#group">Group</a>
+      <a href="https://hxnguyen.github.io/teaching/">Teaching</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <div class="hero">
+      <div>
+        <h1>Hung X Nguyen</h1>
+        <p class="role">Professor and Academic Lead, Cybersecurity and Networking<br>Adelaide University · Cyber-AI Research Group</p>
+        <p class="agenda">I work on AI security and safety: how AI systems fail, whether an attacker is involved or not, and how to catch it before it spreads.</p>
+        <p class="lede">AI agents now read shared documents, call tools and act inside real organisations, which makes them both a new attack surface and a new kind of insider. My group studies how misbehaviour spreads across fleets of agents, how guardrails can be subverted, and when models go wrong with no attacker at all, and we build detectors for each with guarantees. We bring the rigour of a decade of algorithmic network defence, where one question has driven our work: which few weak links does an attacker need?</p>
+        <div class="links">
+          <a href="mailto:hung.nguyen@adelaide.edu.au">Email</a>
+          <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&amp;hl=en">Google Scholar</a>
+          <a href="https://github.com/hxnguyen">GitHub</a>
+        </div>
+      </div>
+
+      <figure class="graph" aria-labelledby="gcap">
+        <svg viewBox="0 0 480 300" role="img" aria-label="A fleet of twenty AI agent sessions. One agent posts a workaround to a shared page; four others read it and copy the behaviour. A single monitor spans the whole fleet.">
+          <defs>
+            <marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path class="arr-attack" d="M0,0 L10,5 L0,10 Z"/></marker>
+          </defs>
+
+          <!-- one agent posts to the shared page -->
+          <path class="g-post" d="M44,111 C90,-10 300,0 356,100" marker-end="url(#ma)"/>
+          <text class="g-hot" x="196" y="12" text-anchor="middle">posts a workaround</text>
+
+          <!-- others read it and copy -->
+          <line class="g-read" x1="330" y1="120" x2="171.3" y2="64"   marker-end="url(#ma)"/>
+          <line class="g-read" x1="330" y1="140" x2="211.9" y2="121.8" marker-end="url(#ma)"/>
+          <line class="g-read" x1="330" y1="160" x2="211.9" y2="178.2" marker-end="url(#ma)"/>
+          <line class="g-read" x1="330" y1="180" x2="171.3" y2="236"  marker-end="url(#ma)"/>
+          <text class="g-elabel" x="252" y="232" text-anchor="middle">read and copy</text>
+
+          <!-- the shared page -->
+          <path class="g-doc" d="M330,106 H388 L400,118 V194 H330 Z"/>
+          <path class="g-fold" d="M388,106 V118 H400"/>
+          <line class="g-dline" x1="340" y1="132" x2="390" y2="132"/>
+          <line class="g-dhot"  x1="340" y1="144" x2="384" y2="144"/>
+          <line class="g-dline" x1="340" y1="156" x2="390" y2="156"/>
+          <line class="g-dline" x1="340" y1="168" x2="376" y2="168"/>
+          <line class="g-dline" x1="340" y1="180" x2="388" y2="180"/>
+          <text class="g-label"  x="365" y="212" text-anchor="middle">Shared page</text>
+          <text class="g-elabel" x="365" y="225" text-anchor="middle">a wiki, a repo, a forum</text>
+
+          <!-- the fleet: 5 x 4 agent sessions -->
+          <circle class="g-node"  cx="40"  cy="60" r="8"/><circle class="g-node" cx="80"  cy="60" r="8"/><circle class="g-node" cx="120" cy="60" r="8"/><circle class="g-adopt" cx="160" cy="60" r="8"/><circle class="g-node" cx="200" cy="60" r="8"/>
+          <circle class="g-seed"  cx="40"  cy="120" r="8"/><circle class="g-node" cx="80"  cy="120" r="8"/><circle class="g-node" cx="120" cy="120" r="8"/><circle class="g-node" cx="160" cy="120" r="8"/><circle class="g-adopt" cx="200" cy="120" r="8"/>
+          <circle class="g-node"  cx="40"  cy="180" r="8"/><circle class="g-node" cx="80"  cy="180" r="8"/><circle class="g-node" cx="120" cy="180" r="8"/><circle class="g-node" cx="160" cy="180" r="8"/><circle class="g-adopt" cx="200" cy="180" r="8"/>
+          <circle class="g-node"  cx="40"  cy="240" r="8"/><circle class="g-node" cx="80"  cy="240" r="8"/><circle class="g-node" cx="120" cy="240" r="8"/><circle class="g-adopt" cx="160" cy="240" r="8"/><circle class="g-node" cx="200" cy="240" r="8"/>
+
+          <!-- one monitor across the whole fleet -->
+          <path class="g-brk" d="M30,264 V272 H210 V264"/>
+          <text class="g-mon" x="120" y="290" text-anchor="middle">one monitor across the fleet</text>
+        </svg>
+        <figcaption id="gcap">Misbehaviour in agent fleets spreads through the state agents share. One agent posts a workaround to a shared page, and others read it and copy it. We build monitors that watch the whole fleet rather than one session, and tell a shared channel apart from a shared flaw in the model.</figcaption>
+        <div class="legend" aria-hidden="true">
+          <span><i class="dot seed"></i>posts it</span>
+          <span><i class="dot adopt"></i>copies it</span>
+          <span><i class="dot"></i>unaffected</span>
+        </div>
+      </figure>
+    </div>
+
+    <section id="research">
+      <h2>Research</h2>
+
+      <div class="featured">
+        <div>
+          <h3>AI security and safety</h3>
+          <p>AI systems now act with access to tools, data and each other, and they fail in two ways that call for different responses. Security is about adversaries: a tactic that spreads between agents through something they all read, or guardrails that can be talked around. Safety is about the model itself going wrong with no attacker at all: misalignment that emerges from narrow fine-tuning, or internal features that interpretability tools read incorrectly.</p>
+          <p>We study both, benchmark the defences meant to contain them, and build detectors that say not only that something is wrong but why.</p>
+          <p>For safety we look inside the models, testing when interpretability tools such as sparse autoencoders and transcoders can be trusted. For security we also turn language models toward defence, fine-tuning them to help human operators harden enterprise networks.</p>
+        </div>
+        <div>
+          <p class="kp">Key papers</p>
+          <ul class="plist">
+            <li><a href="#neurips26">Matryoshka transcoders and hierarchy misalignment: When SAE absorption protection does not transfer</a> <span class="v">NeurIPS 2026</span></li>
+            <li><a href="https://hxnguyen.github.io/publications/">CS-Guard: benchmarking LLM guardrails for code generation security</a> <span class="v">arXiv 2026</span></li>
+            <li><a href="#ad-llm">Toward human-aware Active Directory defense with fine-tuned LLMs</a> <span class="v">AAAI Symp. 2026</span></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="programs">
+        <div class="program">
+          <h3>Robust multi-agent systems</h3>
+          <p>Teams of autonomous agents, from drones to data-collecting robots, must keep working when members fail or are lost. We design decentralised planning and coordination that survives attrition and changing environments.</p>
+          <ul class="plist">
+            <li><a href="#icaps">Boltzmann-based exploration for robust decentralized multi-agent planning</a> <span class="v">ICAPS 2026</span></li>
+            <li><a href="#tmc25">Survive and thrive: decentralized multi-agent coordination under attrition risks</a> <span class="v">IEEE TMC 2025</span></li>
+          </ul>
+        </div>
+        <div class="program">
+          <h3>Algorithmic defence of enterprise networks</h3>
+          <p>The foundation of the group. Active Directory controls identity in most large organisations and is a prime target in ransomware attacks. We model it as an attack graph and compute defences with guarantees: which edges to block, where to place honeypots, which choke points matter.</p>
+          <ul class="plist">
+            <li><a href="#aaai23">Scalable edge blocking for Active Directory attack graphs</a> <span class="v">AAAI 2023</span></li>
+            <li><a href="https://hxnguyen.github.io/publications/">Honeypot placement in dynamic Active Directory graphs</a> <span class="v">INFOCOM 2024</span></li>
+            <li><a href="#raid25">Scalable Active Directory defense with α-metagraph</a> <span class="v">RAID 2025</span></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="publications">
+      <div class="sec-head">
+        <h2>Selected publications</h2>
+        <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&amp;hl=en">Full list on Google Scholar</a>
+      </div>
+      <ol class="pubs">
+        <li class="pub" id="neurips26">
+          <div><div class="venue">NeurIPS 2026</div><span class="rank top">CORE A*</span></div>
+          <div>
+            <a class="title" href="https://hxnguyen.github.io/publications/">Matryoshka transcoders and hierarchy misalignment: When SAE absorption protection does not transfer</a>
+            <div class="authors">Q. D. Ngo, <b>H. X. Nguyen</b></div>
+          </div>
+        </li>
+        <li class="pub" id="ad-llm">
+          <div><div class="venue">AAAI Symp. 2026</div></div>
+          <div>
+            <a class="title" href="https://hxnguyen.github.io/publications/">Toward human-aware Active Directory defense with fine-tuned LLMs</a>
+            <div class="authors">T. Vu, <b>H. X. Nguyen</b></div>
+          </div>
+        </li>
+        <li class="pub" id="icaps">
+          <div><div class="venue">ICAPS 2026</div><span class="rank top">CORE A*</span></div>
+          <div>
+            <a class="title" href="https://hxnguyen.github.io/publications/">Boltzmann-based exploration for robust decentralized multi-agent planning</a>
+            <div class="authors">N. Nguyen, D. D. Nguyen, G. Rizzo, <b>H. X. Nguyen</b></div>
+          </div>
+        </li>
+        <li class="pub">
+          <div><div class="venue">IJCAI 2026</div><span class="rank top">CORE A*</span></div>
+          <div>
+            <a class="title" href="https://hxnguyen.github.io/publications/">Taming treewidth DP with modulators: A general booster for graph heuristics</a>
+            <div class="authors">J. Li, A. Neumann, F. Neumann, <b>H. X. Nguyen</b>, M. Guo</div>
+          </div>
+        </li>
+        <li class="pub" id="tmc25">
+          <div><div class="venue">IEEE TMC 2025</div></div>
+          <div>
+            <a class="title" href="https://hxnguyen.github.io/publications/">Survive and thrive: Decentralized multi-agent coordination under attrition risks</a>
+            <div class="authors">N. Nguyen, D. Nguyen, J. Kim, G. Rizzo, <b>H. X. Nguyen</b></div>
+          </div>
+        </li>
+        <li class="pub" id="raid25">
+          <div><div class="venue">RAID 2025</div><span class="rank">CORE A</span></div>
+          <div>
+            <a class="title" href="https://hxnguyen.github.io/publications/">Scalable Active Directory defense with α-metagraph</a>
+            <div class="authors">N. L. Nguyen, N. Falkner, <b>H. X. Nguyen</b></div>
+          </div>
+        </li>
+        <li class="pub" id="aaai23">
+          <div><div class="venue">AAAI 2023</div><span class="rank top">CORE A*</span></div>
+          <div>
+            <a class="title" href="https://hxnguyen.github.io/publications/">Scalable edge blocking algorithms for defending Active Directory style attack graphs</a>
+            <div class="authors">M. Guo, M. Ward, A. Neumann, F. Neumann, <b>H. X. Nguyen</b></div>
+          </div>
+        </li>
+      </ol>
+    </section>
+
+    <section id="group">
+      <div class="split">
+        <div>
+          <h2>Recent</h2>
+          <ul class="news">
+            <li><time>2026</time><span>NeurIPS 2026 paper on when interpretability protections for sparse autoencoders fail to carry over to transcoders.</span></li>
+            <li><time>2026</time><span>Papers at IJCAI 2026 and ICAPS 2026.</span></li>
+            <li><time>2026</time><span>CS-Guard, a benchmark of LLM guardrails for secure code generation, released.</span></li>
+            <li><time>2026</time><span>Completed the Cisco and Defence Trailblazer project Resilient Platform Interfaces.</span></li>
+          </ul>
+        </div>
+        <div class="join">
+          <h2>Join the group</h2>
+          <p>I supervise PhD students in AI security and safety, and in algorithmic defence. Strong candidates have a background in machine learning, algorithms or optimisation, and want to work on problems that deployed systems face now.</p>
+          <p>Email me a CV and one paragraph on a problem you would like to work on. <a href="https://hxnguyen.github.io/students/">Meet the current group</a>.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>Hung X Nguyen · Adelaide University</span>
+    <nav aria-label="Elsewhere">
+      <a href="mailto:hung.nguyen@adelaide.edu.au">Email</a>
+      <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&amp;hl=en">Google Scholar</a>
+      <a href="https://github.com/hxnguyen">GitHub</a>
+    </nav>
+  </footer>
+
+</div>
+</body>
+</html>
