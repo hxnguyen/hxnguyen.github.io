@@ -1,24 +1,28 @@
 ---
-layout: default
 ---
-
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
-{% endif %}
-
-{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
-
-<div id="main" role="main">
-  {% include sidebar.html %}
-
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
-    {{ content }}
-  </div>
+{%- assign heading = page.title -%}
+{%- if heading == nil or heading == "" -%}{%- assign heading = page.url | remove: "/" | capitalize -%}{%- endif -%}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ heading }} · Hung X Nguyen</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap">
+<link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body>
+<div class="wrap">
+  {% include site-bar.html %}
+  <main class="page">
+    <h1 class="page-title">{{ heading }}</h1>
+    <div class="prose">
+{{ content }}
+    </div>
+  </main>
+  {% include site-footer.html %}
 </div>
+</body>
+</html>

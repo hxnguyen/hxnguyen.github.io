@@ -1,3 +1,6 @@
+---
+layout: null
+---
 <!doctype html>
 <html lang="en">
 <head>
@@ -8,146 +11,12 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap">
-<style>
-  :root {
-    --paper:  #F5F7FA;
-    --surface:#FFFFFF;
-    --ink:    #111A24;
-    --slate:  #56616F;
-    --rule:   #D9DFE6;
-    --accent: #1F5B85;
-    --accent-hover: #174769;
-    --attack: #B3262E;
-    --attack-soft: #F7E3E4;
-    --tag-bg: #EEF2F6;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root:not([data-theme="light"]) {
-      --paper:  #0E141B; --surface:#151D26; --ink: #E4E9EF; --slate: #9AA5B2; --rule: #283341;
-      --accent: #7FB2DA; --accent-hover: #A6CAE7; --attack: #E5646B; --attack-soft: #3A1B1F; --tag-bg: #1C2632;
-    }
-  }
-  :root[data-theme="dark"] {
-    --paper:  #0E141B; --surface:#151D26; --ink: #E4E9EF; --slate: #9AA5B2; --rule: #283341;
-    --accent: #7FB2DA; --accent-hover: #A6CAE7; --attack: #E5646B; --attack-soft: #3A1B1F; --tag-bg: #1C2632;
-  }
-
-  * { box-sizing: border-box; }
-  html { -webkit-text-size-adjust: 100%; }
-  body {
-    margin: 0; background: var(--paper); color: var(--ink);
-    font: 400 1.0625rem/1.6 "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
-    padding-inline: 16px;
-  }
-  .wrap { max-width: 1040px; margin: 0 auto; }
-  a { color: var(--accent); text-decoration: none; text-underline-offset: 3px; }
-  a:hover { color: var(--accent-hover); text-decoration: underline; }
-  a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
-  h1, h2, .featured h3 { font-family: "Newsreader", Georgia, "Times New Roman", serif; font-weight: 500; text-wrap: balance; }
-  p { margin: 0 0 1em; }
-
-  .bar { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 8px 24px; padding-block: 20px; border-bottom: 1px solid var(--rule); }
-  .bar .who { font-weight: 600; color: var(--ink); }
-  .bar nav { display: flex; flex-wrap: wrap; gap: 4px 20px; font-size: .9375rem; }
-  .bar nav a { color: var(--slate); }
-  .bar nav a:hover { color: var(--ink); }
-
-  .hero { display: grid; gap: 36px; padding-block: 56px 48px; grid-template-columns: 1fr; align-items: center; }
-  @media (min-width: 860px) { .hero { grid-template-columns: 1.08fr 1fr; gap: 48px; padding-block: 72px 56px; } }
-  .hero h1 { font-size: clamp(2.1rem, 1.5rem + 2.4vw, 3.1rem); line-height: 1.08; margin: 0 0 10px; letter-spacing: -.01em; }
-  .role { color: var(--slate); margin: 0 0 22px; font-size: 1rem; }
-  .agenda { font-family: "Newsreader", Georgia, serif; font-weight: 500; font-size: clamp(1.25rem, 1.1rem + .6vw, 1.5rem); line-height: 1.35; margin: 0 0 16px; max-width: 34ch; text-wrap: balance; }
-  .lede { color: var(--slate); max-width: 60ch; }
-  .links { display: flex; flex-wrap: wrap; gap: 6px 22px; margin-top: 22px; font-size: .9375rem; font-weight: 500; }
-
-  figure { margin: 0; }
-  .graph { background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; padding: 18px 18px 14px; }
-  .graph svg { display: block; width: 100%; height: auto; }
-  .graph figcaption { font-size: .875rem; color: var(--slate); margin-top: 10px; line-height: 1.5; }
-  .legend { display: flex; flex-wrap: wrap; gap: 4px 18px; font-size: .8125rem; color: var(--slate); margin-top: 8px; }
-  .legend span { display: inline-flex; align-items: center; gap: 7px; }
-  .dot { width: 11px; height: 11px; border-radius: 50%; display: inline-block; border: 2px solid var(--slate); background: var(--surface); }
-  .dot.seed { background: var(--attack); border-color: var(--attack); }
-  .dot.adopt { background: var(--attack-soft); border-color: var(--attack); }
-
-  .g-node  { fill: var(--surface); stroke: var(--slate); stroke-width: 1.5; }
-  .g-seed  { fill: var(--attack); stroke: var(--attack); stroke-width: 1.5; }
-  .g-adopt { fill: var(--attack-soft); stroke: var(--attack); stroke-width: 2; }
-  .g-doc   { fill: var(--surface); stroke: var(--slate); stroke-width: 1.5; }
-  .g-fold  { fill: none; stroke: var(--slate); stroke-width: 1.5; }
-  .g-dline { stroke: var(--slate); stroke-width: 1.2; opacity: .45; }
-  .g-dhot  { stroke: var(--attack); stroke-width: 2.2; }
-  .g-read  { stroke: var(--attack); stroke-width: 1.6; fill: none; }
-  .g-post  { stroke: var(--attack); stroke-width: 2; fill: none; }
-  .g-brk   { stroke: var(--accent); stroke-width: 1.5; fill: none; }
-  .g-label { fill: var(--ink); font: 500 11px "IBM Plex Sans", sans-serif; }
-  .g-elabel{ fill: var(--slate); font: 400 10.5px "IBM Plex Sans", sans-serif; }
-  .g-hot   { fill: var(--attack); font: 600 10.5px "IBM Plex Sans", sans-serif; }
-  .g-mon   { fill: var(--accent); font: 600 10.5px "IBM Plex Sans", sans-serif; }
-  .arr-attack { fill: var(--attack); }
-
-  section { padding-block: 44px; border-top: 1px solid var(--rule); }
-  section h2 { font-size: 1.625rem; margin: 0 0 24px; line-height: 1.2; }
-  .sec-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 8px 20px; }
-  .sec-head a { font-size: .9375rem; font-weight: 500; }
-
-  /* the lead program gets the room; the other two sit beneath it */
-  .featured { display: grid; gap: 20px 56px; grid-template-columns: 1fr; padding-bottom: 36px; margin-bottom: 36px; border-bottom: 1px solid var(--rule); }
-  @media (min-width: 860px) { .featured { grid-template-columns: 1.25fr 1fr; } }
-  .featured h3 { font-size: 1.5rem; line-height: 1.25; margin: 0 0 12px; }
-  .featured p { color: var(--slate); }
-  .kp { font-size: .8125rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--slate); margin: 0 0 10px; }
-  .plist { list-style: none; margin: 0; padding: 0; font-size: .9375rem; }
-  .plist li { padding-block: 9px; border-bottom: 1px solid var(--rule); line-height: 1.45; }
-  .plist li:first-child { padding-top: 0; }
-  .plist .v { color: var(--slate); white-space: nowrap; }
-
-  .programs { display: grid; gap: 32px; grid-template-columns: 1fr; }
-  @media (min-width: 800px) { .programs { grid-template-columns: 1fr 1fr; gap: 48px; } }
-  .program h3 { font-size: 1.0625rem; font-weight: 600; margin: 0 0 8px; line-height: 1.35; }
-  .program p { color: var(--slate); font-size: .96875rem; }
-  .program .plist { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--rule); font-size: .90625rem; }
-
-  .pubs { list-style: none; margin: 0; padding: 0; }
-  .pub { display: grid; gap: 4px 24px; padding-block: 16px; border-bottom: 1px solid var(--rule); grid-template-columns: 1fr; }
-  .pub:first-child { padding-top: 0; }
-  @media (min-width: 760px) { .pub { grid-template-columns: 8rem 1fr; } }
-  .pub .venue { font-weight: 600; font-size: .9375rem; font-variant-numeric: tabular-nums; }
-  .rank { display: inline-block; margin-top: 4px; padding: 1px 6px; border-radius: 3px; font-size: .6875rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; background: var(--tag-bg); color: var(--slate); }
-  .rank.top { color: var(--accent); }
-  .pub .title { font-weight: 500; color: var(--ink); }
-  .pub .title:hover { color: var(--accent); }
-  .pub .authors { color: var(--slate); font-size: .9375rem; }
-  .pub .authors b { color: var(--ink); font-weight: 600; }
-  .pub .res { font-size: .875rem; margin-top: 2px; display: flex; flex-wrap: wrap; gap: 2px 14px; }
-  .pending { color: var(--slate); font-weight: 500; border-bottom: 1px dashed var(--slate); }
-
-  .split { display: grid; gap: 40px; grid-template-columns: 1fr; }
-  @media (min-width: 800px) { .split { grid-template-columns: 1fr 1fr; gap: 56px; } }
-  .news { list-style: none; margin: 0; padding: 0; }
-  .news li { display: grid; grid-template-columns: 3.5rem 1fr; gap: 16px; padding-block: 10px; border-bottom: 1px solid var(--rule); font-size: .96875rem; }
-  .news time { color: var(--slate); font-variant-numeric: tabular-nums; font-weight: 500; }
-  .join { background: var(--surface); border: 1px solid var(--rule); border-radius: 6px; padding: 24px 24px 20px; }
-  .join h2 { font-size: 1.375rem; margin-bottom: 12px; }
-  .join p { color: var(--slate); font-size: .96875rem; }
-  .join p:last-child { margin-bottom: 0; }
-
-  footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; padding-block: 28px 40px; border-top: 1px solid var(--rule); color: var(--slate); font-size: .875rem; }
-  footer nav { display: flex; flex-wrap: wrap; gap: 4px 18px; }
-</style>
+<link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
 <div class="wrap">
 
-  <header class="bar">
-    <a class="who" href="#top">Hung X Nguyen</a>
-    <nav aria-label="Primary">
-      <a href="#research">Research</a>
-      <a href="#publications">Publications</a>
-      <a href="#group">Group</a>
-      <a href="https://hxnguyen.github.io/teaching/">Teaching</a>
-    </nav>
-  </header>
+  {% include site-bar.html %}
 
   <main id="top">
     <div class="hero">
@@ -286,7 +155,7 @@
           </div>
         </li>
         <li class="pub" id="tmc25">
-          <div><div class="venue">IEEE TMC 2025</div></div>
+          <div><div class="venue">IEEE TMC 2025</div><span class="rank top">CORE A*</span></div>
           <div>
             <a class="title" href="https://hxnguyen.github.io/publications/">Survive and thrive: Decentralized multi-agent coordination under attrition risks</a>
             <div class="authors">N. Nguyen, D. Nguyen, J. Kim, G. Rizzo, <b>H. X. Nguyen</b></div>
@@ -329,14 +198,7 @@
     </section>
   </main>
 
-  <footer>
-    <span>Hung X Nguyen · Adelaide University</span>
-    <nav aria-label="Elsewhere">
-      <a href="mailto:hung.nguyen@adelaide.edu.au">Email</a>
-      <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&amp;hl=en">Google Scholar</a>
-      <a href="https://github.com/hxnguyen">GitHub</a>
-    </nav>
-  </footer>
+  {% include site-footer.html %}
 
 </div>
 </body>
