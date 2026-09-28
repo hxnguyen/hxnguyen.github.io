@@ -26,8 +26,3 @@ Mgtoolkit is a python package for modelling and analysing  metagraphs - a specia
 
 
 More code from my research group is available on the <a href="https://github.com/AUCyberLab"> AUCyberLab GitHub </a>.
-
-{% include base_path %}
-
-{% for post in site.code reversed %} 
-{% include archive-single.html %} {% endfor %}
