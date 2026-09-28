@@ -1,7 +1,7 @@
 <header class="bar">
   <a class="who" href="/">Hung X Nguyen</a>
   <nav aria-label="Primary">
-    {%- assign items = "Research|/research/,Publications|/publications/,Group|/students/,Datasets|/datasets/,Code|/code/" | split: "," -%}
+    {%- assign items = "Publications|/publications/,Group|/students/,Datasets|/datasets/,Code|/code/" | split: "," -%}
     {%- for it in items -%}{%- assign p = it | split: "|" %}
     <a href="{{ p[1] }}"{% if page.url == p[1] %} aria-current="page"{% endif %}>{{ p[0] }}</a>
     {%- endfor %}
