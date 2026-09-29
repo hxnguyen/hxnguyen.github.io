@@ -9,7 +9,7 @@ redirect_from:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Hung X Nguyen</title>
-<meta name="description" content="Professor at Adelaide University. AI security and safety, and algorithmic defence of enterprise networks.">
+<meta name="description" content="Professor at Adelaide University. We secure organisations that run AI agents: map where they can be attacked, watch how misbehaviour spreads across a fleet, test whether a model's internals can be trusted.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap">
@@ -25,8 +25,8 @@ redirect_from:
       <div>
         <h1>Hung X Nguyen</h1>
         <p class="role">Professor and Academic Lead, Cybersecurity and Networking<br>Adelaide University · Cyber-AI Research Group</p>
-        <p class="agenda">I work on AI security and safety: how AI systems fail, whether an attacker is involved or not, and how to catch it before it spreads.</p>
-        <p class="lede">AI agents now read shared documents, call tools and act inside real organisations, which makes them both a new attack surface and a new kind of insider. My group studies how misbehaviour spreads across fleets of agents, how guardrails can be subverted, and when models go wrong with no attacker at all, and we build detectors for each with guarantees. We bring the rigour of a decade of algorithmic network defence, where one question has driven our work: which few weak links does an attacker need?</p>
+        <p class="agenda">I lead a group with one aim: securing organisations that run AI agents.</p>
+        <p class="lede">AI agents are the new insiders. They hold identities and permissions, read the documents and memories other agents wrote, call tools, and act. My group maps where an organisation that runs them can be attacked, watches how misbehaviour spreads across a fleet before it does damage, and tests whether what a model's internals appear to say can be trusted. We bring a decade of algorithmic network defence, where one question has driven our work: which few weak links does an attacker need? Every result ships as a generator, a dataset or a detector before it ships as a paper.</p>
         <div class="links">
           <a href="mailto:hung.nguyen@adelaide.edu.au">Email</a>
           <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&amp;hl=en">Google Scholar</a>
@@ -86,10 +86,10 @@ redirect_from:
 
       <div class="featured">
         <div>
-          <h3>AI security and safety</h3>
-          <p>AI systems now act with access to tools, data and each other, and they fail in two ways that call for different responses. Security is about adversaries: a tactic that spreads between agents through something they all read, or guardrails that can be talked around. Safety is about the model itself going wrong with no attacker at all: misalignment that emerges from narrow fine-tuning, or internal features that interpretability tools read incorrectly.</p>
-          <p>We study both, benchmark the defences meant to contain them, and build detectors that say not only that something is wrong but why.</p>
-          <p>For safety we look inside the models, testing when interpretability tools such as sparse autoencoders and transcoders can be trusted. For security we also turn language models toward defence, fine-tuning them to help human operators harden enterprise networks.</p>
+          <h3>Securing organisations that run AI agents</h3>
+          <p><strong>Map.</strong> An organisation's agents inherit its identity and permission graph and add their own: delegated credentials, tool access, shared memories, and the metadata that systems write on their behalf. We generate realistic graphs of this kind, find the few weak links an attacker needs, and fine-tune language models to help operators close them.</p>
+          <p><strong>Watch.</strong> Misbehaviour spreads through what agents share. We build fleet-level monitors with calibrated guarantees that tell a shared channel apart from a shared flaw in the model, and we collect incident data from real agent activity on the open web.</p>
+          <p><strong>Trust.</strong> Some failures need no attacker: misalignment that emerges from narrow fine-tuning, or internal features that interpretability tools read incorrectly. We test when tools such as sparse autoencoders and transcoders can be trusted, and we keep a systematic map of the field's evidence.</p>
         </div>
         <div>
           <p class="kp">Key papers</p>
@@ -112,7 +112,7 @@ redirect_from:
         </div>
         <div class="program">
           <h3>Algorithmic defence of enterprise networks</h3>
-          <p>Active Directory controls identity in most large organisations and is a prime target in ransomware attacks. We model it as an attack graph and compute defences with guarantees: which edges to block, where to place honeypots, which choke points matter.</p>
+          <p>Active Directory controls identity in most large organisations and is a prime target in ransomware attacks. We model it as an attack graph and compute defences with guarantees: which edges to block, where to place honeypots, which choke points matter. Our open generator ADSynth produces the graphs this work runs on, and is the base we extend to agent identities.</p>
           <ul class="plist">
             <li><a href="#aaai23">Scalable edge blocking for Active Directory attack graphs</a> <span class="v">AAAI 2023</span></li>
             <li><a href="https://hxnguyen.github.io/publications/">Honeypot placement in dynamic Active Directory graphs</a> <span class="v">INFOCOM 2024</span></li>
@@ -228,7 +228,7 @@ redirect_from:
         </div>
         <div class="join">
           <h2>Join the group</h2>
-          <p>I supervise PhD students in AI security and safety, and in algorithmic defence. Strong candidates have exceptional academic performance, are self-motivated, and have a background in machine learning, algorithms or optimisation. They want to work on problems that deployed systems face now.</p>
+          <p>I supervise PhD students on securing organisations that run AI agents, and on algorithmic defence of enterprise networks. Strong candidates have exceptional academic performance, are self-motivated, and have a background in machine learning, algorithms or optimisation. They want to work on problems that deployed systems face now.</p>
           <p>Email me a CV and one paragraph on a problem you would like to work on. <a href="https://hxnguyen.github.io/students/">Meet the current group</a>.</p>
         </div>
       </div>
