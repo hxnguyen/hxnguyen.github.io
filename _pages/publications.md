@@ -12,7 +12,9 @@ All publications
 
 ### 2026
 
+* Li, J., Guo, M., & Nguyen, H. X. (2026). CS-Guard: Benchmarking LLM guardrails for code generation security. _arXiv preprint arXiv:2609.09798_. https://doi.org/10.48550/arXiv.2609.09798
 * Zhang, Y., & Nguyen, H. X. (2026). DisCoConnect: Computing connectivity in hypergraph category string diagrams via metagraph algorithms. _SoftwareX_, 35, 102779. https://doi.org/10.1016/j.softx.2026.102779
+* Li, J., Neumann, A., Neumann, F., Nguyen, H. X., & Guo, M. (2026). Taming treewidth DP with modulators: A general booster for graph heuristics. _Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)_, Bremen, Germany, 15–21 August 2026, 6299–6307. https://doi.org/10.24963/ijcai.2026/701 **CORE A\***
 * Parsonage, E., Roughan, M., & Nguyen, H. X. (2026). Transitivity preserving projection in directed hypergraphs. _Theoretical Computer Science_, 116141. https://doi.org/10.1016/j.tcs.2026.116141
 * Vu, T., & Nguyen, H. X. (2026). Toward human-aware Active Directory defense with fine-tuned LLMs. _Proceedings of the AAAI Symposium Series (AAAI 2026 Summer Symposium on Human-Aware AI Agents for the Cyber Battlefield)_, 9(1), 332–335.
 * Nguyen, N., Nguyen, D. D., Rizzo, G., & Nguyen, H. X. (2026). Boltzmann-based exploration for robust decentralized multi-agent planning. _Proceedings of the 36th International Conference on Automated Planning and Scheduling (ICAPS 2026)_. **CORE A\***
@@ -33,7 +35,7 @@ All publications
 * Nguyen, N., Nguyen, D. D., Rizzo, G., & Nguyen, H. X. (2024). United we stand: Decentralized multi-agent planning with attrition. _Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2024)_, Santiago de Compostela, Spain, 19–24 October 2024. **CORE A**
 * Zhang, Y., Ward, M., & Nguyen, H. X. (2024). Practical anytime algorithms for judicious partitioning of Active Directory attack graphs. _Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)_, Jeju, South Korea, 3–9 August 2024. **CORE A\***
 * Nguyen, N. L., Falkner, N., & Nguyen, H. X. (2024). Synthesizing realistic enterprise Active Directory attack graphs with ADSynth. _Proceedings of the ACM SIGCOMM 2024 Conference: Posters and Demos_, Sydney, Australia, 107–109. **CORE A\***
-* Nguyen, N. L., Falkner, N., & Nguyen, H. X. (2024). ADSynth: Synthesizing realistic Active Directory graphs. _Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2024)_, Brisbane, Australia, 24–27 June 2024. **CORE A**
+* Nguyen, N. L., Falkner, N., & Nguyen, H. X. (2024). ADSynth: Synthesizing realistic Active Directory attack graphs. _Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2024)_, Brisbane, Australia, 24–27 June 2024. **CORE A**
 * Nguyen, N., Nguyen, D. D., Kim, J., Rizzo, G., & Nguyen, H. X. (2024). Decentralized coordination for multi-agent data collection in dynamic environments. _IEEE Transactions on Mobile Computing_. **CORE A\***
 * Ngo, Q. H., Guo, M., & Nguyen, H. X. (2024). Catch me if you can: Effective honeypot placement in dynamic Active Directory attack graphs. _Proceedings of the IEEE International Conference on Computer Communications (INFOCOM 2024)_. **CORE A\***
 * Ngo, Q. H., Guo, M., & Nguyen, H. X. (2024). Optimizing cyber response time on temporal Active Directory networks using decoys. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2024)_. **CORE A**
@@ -112,6 +114,7 @@ All publications
 * Ranathunga, D., Roughan, M., Kernick, P., Falkner, N., Nguyen, H. X., Mihailescu, M., & McClintock, M. (2016). Verifiable policy-defined networking for security management. _Proceedings of the 13th International Conference on Security and Cryptography (SECRYPT 2016)_, 344–351.
 * Nguyen, H. X., Webb, M. R., & Naguleswaran, S. (2016). Achieving policy defined networking for military operations. _Proceedings of the 2016 Military Communications and Information Systems Conference (MilCIS 2016)_, 1–6.
 * Nguyen, H. X., Pham, T., Hoang, K., Nguyen, D. D., & Parsonage, E. (2016). A prototype of policy defined wireless access networks. _Proceedings of the 26th International Telecommunication Networks and Applications Conference (ITNAC 2016)_, 101–106.
+* Nguyen, D. D., Nguyen, H. X., & White, L. B. (2016). _Distributed RAT selection with enhanced reinforcement learning_. Technical report, The University of Adelaide.
 
 ### 2015
 
@@ -130,6 +133,7 @@ All publications
 * Nguyen, H. X., & Roughan, M. (2012). Improving hidden Markov model inferences with private data from multiple observers. _IEEE Signal Processing Letters_, 19(10), 696–699. **CORE A**
 * Knight, S., Falkner, N., Nguyen, H. X., Tune, P., & Roughan, M. (2012). I can see for miles: Re-visualizing the Internet. _IEEE Network_, 26(6), 26–32.
 * Nguyen, H. X., & Roughan, M. (2012). Rigorous statistical analysis of Internet loss measurements. _IEEE/ACM Transactions on Networking_, 21(3), 734–745. **CORE A\***
+* Knight, S., Nguyen, H. X., Falkner, N., & Roughan, M. (2012). _Realistic network topology construction and emulation from multiple data sources_. Technical report, The University of Adelaide.
 
 ### 2011
 
