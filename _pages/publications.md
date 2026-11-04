@@ -12,6 +12,7 @@ All publications
 
 ### 2026
 
+* Nguyen, H. T., Ma, V. D., Truong, D. T., Nguyen, N. K. D., Nguyen, A. H., & Nguyen, H. X. (2026). HyPAS: Efficient hybrid parallelism for distributed deep learning in edge–cloud systems. _IEEE Transactions on Cloud Computing_ (early access), 1–19. https://doi.org/10.1109/TCC.2026.3747129
 * Zhang, Y., & Nguyen, H. X. (2026). ADCSESC-IDF: On-demand higher-order reachability for compositional ADCS domain escalation discovery. _Computers & Security_, 173, 105199. https://doi.org/10.1016/j.cose.2026.105199
 * Li, J., Guo, M., & Nguyen, H. X. (2026). CS-Guard: Benchmarking LLM guardrails for code generation security. _arXiv preprint arXiv:2609.09798_. https://doi.org/10.48550/arXiv.2609.09798
 * Zhang, Y., & Nguyen, H. X. (2026). DisCoConnect: Computing connectivity in hypergraph category string diagrams via metagraph algorithms. _SoftwareX_, 35, 102779. https://doi.org/10.1016/j.softx.2026.102779
