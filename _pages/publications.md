@@ -12,11 +12,13 @@ All publications
 
 ### 2026
 
+* Zhang, Y., & Nguyen, H. X. (2026). ADCSESC-IDF: On-demand higher-order reachability for compositional ADCS domain escalation discovery. _Computers & Security_, 173, 105199. https://doi.org/10.1016/j.cose.2026.105199
 * Li, J., Guo, M., & Nguyen, H. X. (2026). CS-Guard: Benchmarking LLM guardrails for code generation security. _arXiv preprint arXiv:2609.09798_. https://doi.org/10.48550/arXiv.2609.09798
 * Zhang, Y., & Nguyen, H. X. (2026). DisCoConnect: Computing connectivity in hypergraph category string diagrams via metagraph algorithms. _SoftwareX_, 35, 102779. https://doi.org/10.1016/j.softx.2026.102779
 * Li, J., Neumann, A., Neumann, F., Nguyen, H. X., & Guo, M. (2026). Taming treewidth DP with modulators: A general booster for graph heuristics. _Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)_, Bremen, Germany, 15–21 August 2026, 6299–6307. https://doi.org/10.24963/ijcai.2026/701 **CORE A\***
 * Parsonage, E., Roughan, M., & Nguyen, H. X. (2026). Transitivity preserving projection in directed hypergraphs. _Theoretical Computer Science_, 116141. https://doi.org/10.1016/j.tcs.2026.116141
 * Vu, T., & Nguyen, H. X. (2026). Toward human-aware Active Directory defense with fine-tuned LLMs. _Proceedings of the AAAI Symposium Series (AAAI 2026 Summer Symposium on Human-Aware AI Agents for the Cyber Battlefield)_, 9(1), 332–335.
+* Bulinski, K., White, L. B., & Nguyen, H. X. (2026). Pure or unstable: A generic dichotomy for strong Stackelberg commitments. _arXiv preprint arXiv:2606.17415_. https://doi.org/10.48550/arXiv.2606.17415
 * Nguyen, N., Nguyen, D. D., Rizzo, G., & Nguyen, H. X. (2026). Boltzmann-based exploration for robust decentralized multi-agent planning. _Proceedings of the 36th International Conference on Automated Planning and Scheduling (ICAPS 2026)_. **CORE A\***
 * Aslam, S., & Nguyen, H. X. (2026). ICSim++: A CAN/CAN FD simulator for modern vehicle networks with LLM-assisted workflows. _SoftwareX_, 34, 102722. https://doi.org/10.1016/j.softx.2026.102722
 
