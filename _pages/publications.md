@@ -12,6 +12,7 @@ All publications
 
 ### 2026
 
+* Pogrebna, G., & Nguyen, H. X. (2026). Behaviorally-informed Stackelberg games for cyber deception in human–machine MLOps pipelines: Why the assurance paradigm ends at the workforce. _New Security Paradigms Workshop (NSPW 2026)_, Sooke, BC, Canada, 27–30 September 2026. Presented; to appear in the ACM International Conference Proceedings Series.
 * Nguyen, H. T., Ma, V. D., Truong, D. T., Nguyen, N. K. D., Nguyen, A. H., & Nguyen, H. X. (2026). HyPAS: Efficient hybrid parallelism for distributed deep learning in edge–cloud systems. _IEEE Transactions on Cloud Computing_ (early access), 1–19. https://doi.org/10.1109/TCC.2026.3747129
 * Zhang, Y., & Nguyen, H. X. (2026). ADCSESC-IDF: On-demand higher-order reachability for compositional ADCS domain escalation discovery. _Computers & Security_, 173, 105199. https://doi.org/10.1016/j.cose.2026.105199
 * Li, J., Guo, M., & Nguyen, H. X. (2026). CS-Guard: Benchmarking LLM guardrails for code generation security. _arXiv preprint arXiv:2609.09798_. https://doi.org/10.48550/arXiv.2609.09798
