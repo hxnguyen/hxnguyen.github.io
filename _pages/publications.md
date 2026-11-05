@@ -86,7 +86,6 @@ All publications
 * Ranathunga, D., Roughan, M., & Nguyen, H. X. (2020). Verifiable policy-defined networking using metagraphs. _IEEE Transactions on Dependable and Secure Computing_, 19(1), 482–494. **CORE A**
 * Ranathunga, D., Roughan, M., & Nguyen, H. X. (2020). Mathematical reconciliation of medical privacy policies. _ACM Transactions on Management Information Systems_. **CORE A**
 * Arsalaan, A. S., Nguyen, H. X., Coyle, A., & Fida, M.-R. (2020). Quality of information with minimum requirements for emergency communications. _Ad Hoc Networks_, 111, 102331. **CORE A**
-* Pham, T., McMahon, J., & Nguyen, H. X. (2020). Enabling heterogeneous 5G simulations with SDN adapters. _Testbeds and Research Infrastructures for the Development of Networks and Communications: 14th EAI International Conference (TridentCom 2019)_, 163–183. Springer.
 * Dinani, M. A., Holzer, A., Nguyen, H. X., Marsan, M. A., & Rizzo, G. (2020). Poster: Mobile gossip learning for trajectory prediction.
 * Nguyen, H. X., Yego, K., & Sioutis, C. (2020). BGP based software defined networks for resilient combat cloud. _Proceedings of the 2020 Military Communications and Information Systems Conference (MilCIS 2020)_, 1–6.
 
@@ -94,6 +93,7 @@ All publications
 
 * Le, B.-D., Shen, H., Nguyen, H. X., & Falkner, N. (2019). Improved network community detection using meta-heuristic based label propagation. _Applied Intelligence_, 49, 1451–1466.
 * Manzo, G., Otálora, S., Braun, T., Marsan, M. A., Rizzo, G., & Nguyen, H. X. (2019). DeepFloat: Resource-efficient dynamic management of vehicular floating content. _Proceedings of the 31st International Teletraffic Congress (ITC 31)_, 46–54.
+* Pham, T., McMahon, J., & Nguyen, H. X. (2019). Enabling heterogeneous 5G simulations with SDN adapters. _Testbeds and Research Infrastructures for the Development of Networks and Communications: 14th EAI International Conference (TridentCom 2019)_, 163–183. Springer.
 
 ### 2018
 
@@ -143,7 +143,6 @@ All publications
 
 * Knight, S., Nguyen, H. X., Falkner, N., Bowden, R., & Roughan, M. (2011). The Internet topology zoo. _IEEE Journal on Selected Areas in Communications_, 29(9), 1765–1775. **CORE A\***
 * Parsonage, E., Nguyen, H. X., & Roughan, M. (2011). Absorbing lexicographic products in metarouting.
-* Nguyen, H. X., Roughan, M., Knight, S., Falkner, N., Maennel, O., & Bush, R. (2011). How to build complex, large-scale emulated networks. _Testbeds and Research Infrastructures: Development of Networks and Communities: 6th International ICST Conference (TridentCom 2010)_, Berlin, Germany, 3–18. Springer.
 * Parsonage, E., Nguyen, H. X., Bowden, R., Knight, S., Falkner, N., & Roughan, M. (2011). Generalized graph products for network design and analysis. _Proceedings of the 19th IEEE International Conference on Network Protocols (ICNP 2011)_, 79–88. **CORE A**
 * Bowden, R., Nguyen, H. X., Falkner, N., Knight, S., & Roughan, M. (2011). Planarity of data networks. _Proceedings of the 23rd International Teletraffic Congress (ITC 23)_, 254–261.
 
@@ -153,6 +152,7 @@ All publications
 * Nguyen, H. X., & Roughan, M. (2010). Rigorous statistical analysis of Internet loss measurements. _Proceedings of the ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems_, 361–362. **CORE A\***
 * Coyle, A., & Nguyen, H. X. (2010). A frequency control algorithm for a mobile ad hoc network. _Proceedings of the 2010 Military Communications and Information Systems Conference (MilCIS 2010)_.
 * Nguyen, H. X., & Roughan, M. (2010). SAIL: Statistically accurate Internet loss measurement. _Proceedings of the ACM SIGMETRICS 2010 Conference_. **CORE A\***
+* Nguyen, H. X., Roughan, M., Knight, S., Falkner, N., Maennel, O., & Bush, R. (2010). How to build complex, large-scale emulated networks. _Testbeds and Research Infrastructures: Development of Networks and Communities: 6th International ICST Conference (TridentCom 2010)_, Berlin, Germany, 3–18. Springer.
 
 ### 2009
 
