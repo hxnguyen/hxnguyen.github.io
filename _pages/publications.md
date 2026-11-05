@@ -10,8 +10,6 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 All publications
 ======
 
-For journal papers, Q is the journal's quartile and IF its impact factor in the latest Journal Citation Reports (as of November 2026).
-
 ### 2026
 
 * Pogrebna, G., & Nguyen, H. X. (2026). Behaviorally-informed Stackelberg games for cyber deception in human–machine MLOps pipelines: Why the assurance paradigm ends at the workforce. _New Security Paradigms Workshop (NSPW 2026)_, Sooke, BC, Canada, 27–30 September 2026. Presented; to appear in the ACM International Conference Proceedings Series.
