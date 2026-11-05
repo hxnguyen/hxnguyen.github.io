@@ -119,6 +119,7 @@ All publications
 * Ranathunga, D., Roughan, M., Kernick, P., Falkner, N., Nguyen, H. X., Mihailescu, M., & McClintock, M. (2016). Verifiable policy-defined networking for security management. _Proceedings of the 13th International Conference on Security and Cryptography (SECRYPT 2016)_, 344–351.
 * Nguyen, H. X., Webb, M. R., & Naguleswaran, S. (2016). Achieving policy defined networking for military operations. _Proceedings of the 2016 Military Communications and Information Systems Conference (MilCIS 2016)_, 1–6.
 * Nguyen, H. X., Pham, T., Hoang, K., Nguyen, D. D., & Parsonage, E. (2016). A prototype of policy defined wireless access networks. _Proceedings of the 26th International Telecommunication Networks and Applications Conference (ITNAC 2016)_, 101–106.
+* Nguyen, H. X., Naguleswaran, S., & Webb, M. R. (2016). Emergency communication in Australia: Current situation and future directions. _Proceedings of the 5th Disaster and Emergency Management Conference_, Gold Coast, QLD, Australia, 30–31 May 2016.
 * Nguyen, D. D., Nguyen, H. X., & White, L. B. (2016). _Distributed RAT selection with enhanced reinforcement learning_. Technical report, The University of Adelaide.
 
 ### 2015
@@ -135,6 +136,7 @@ All publications
 ### 2012
 
 * Nguyen, H. X., & Roughan, M. (2012). On the identifiability of multi-observer hidden Markov models. _Proceedings of the 2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2012)_, 1873–1876.
+* Nguyen, H. X., & Roughan, M. (2012). Multi-observer privacy-preserving hidden Markov models. _Proceedings of the 2012 IEEE Network Operations and Management Symposium (NOMS 2012)_, Maui, HI, USA, 514–517. https://doi.org/10.1109/NOMS.2012.6211944
 * Nguyen, H. X., & Roughan, M. (2012). Improving hidden Markov model inferences with private data from multiple observers. _IEEE Signal Processing Letters_, 19(10), 696–699. **Q2 · IF 3.6**
 * Knight, S., Falkner, N., Nguyen, H. X., Tune, P., & Roughan, M. (2012). I can see for miles: Re-visualizing the Internet. _IEEE Network_, 26(6), 26–32. **Q1 · IF 8.8**
 * Nguyen, H. X., & Roughan, M. (2012). Rigorous statistical analysis of Internet loss measurements. _IEEE/ACM Transactions on Networking_, 21(3), 734–745. **Q1 · IF 5.3**
