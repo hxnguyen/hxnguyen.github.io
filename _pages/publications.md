@@ -119,7 +119,7 @@ All publications
 * Ranathunga, D., Roughan, M., Kernick, P., Falkner, N., Nguyen, H. X., Mihailescu, M., & McClintock, M. (2016). Verifiable policy-defined networking for security management. _Proceedings of the 13th International Conference on Security and Cryptography (SECRYPT 2016)_, 344–351. [[PDF]](/files/2016_Verifiable_policy_defined_networking_for_security.pdf)
 * Nguyen, H. X., Webb, M. R., & Naguleswaran, S. (2016). Achieving policy defined networking for military operations. _Proceedings of the 2016 Military Communications and Information Systems Conference (MilCIS 2016)_, 1–6. [[PDF]](/files/2016_Achieving_policy_defined_networking_for_military.pdf)
 * Nguyen, H. X., Pham, T., Hoang, K., Nguyen, D. D., & Parsonage, E. (2016). A prototype of policy defined wireless access networks. _Proceedings of the 26th International Telecommunication Networks and Applications Conference (ITNAC 2016)_, 101–106.
-* Nguyen, H. X., Naguleswaran, S., & Webb, M. R. (2016). Emergency communication in Australia: Current situation and future directions. _Proceedings of the 5th Disaster and Emergency Management Conference_, Gold Coast, QLD, Australia, 30–31 May 2016.
+* Nguyen, H. X., Naguleswaran, S., & Webb, M. R. (2016). Emergency communication in Australia: Current situation and future directions. _Proceedings of the 5th Disaster and Emergency Management Conference_, Gold Coast, QLD, Australia, 30–31 May 2016. [[PDF]](/files/2016_Emergency_communication_in_Australia_Current_situation.pdf)
 * Nguyen, D. D., Nguyen, H. X., & White, L. B. (2016). _Distributed RAT selection with enhanced reinforcement learning_. Technical report, The University of Adelaide.
 
 ### 2015
