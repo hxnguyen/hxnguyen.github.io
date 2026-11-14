@@ -16,108 +16,108 @@ All publications
 * Pogrebna, G., & Nguyen, H. X. (2026). Behaviorally-informed Stackelberg games for cyber deception in human–machine MLOps pipelines: Why the assurance paradigm ends at the workforce. _New Security Paradigms Workshop (NSPW 2026)_, Sooke, BC, Canada, 27–30 September 2026. Presented; to appear in the ACM International Conference Proceedings Series.
 * Nguyen, H. T., Ma, V. D., Truong, D. T., Nguyen, N. K. D., Nguyen, A. H., & Nguyen, H. X. (2026). HyPAS: Efficient hybrid parallelism for distributed deep learning in edge–cloud systems. _IEEE Transactions on Cloud Computing_ (early access), 1–19. https://doi.org/10.1109/TCC.2026.3747129 **Q1 · IF 5.3**
 * Zhang, Y., & Nguyen, H. X. (2026). ADCSESC-IDF: On-demand higher-order reachability for compositional ADCS domain escalation discovery. _Computers & Security_, 173, 105199. https://doi.org/10.1016/j.cose.2026.105199 **Q1 · IF 6.8**
-* Li, J., Guo, M., & Nguyen, H. X. (2026). CS-Guard: Benchmarking LLM guardrails for code generation security. _arXiv preprint arXiv:2609.09798_. https://doi.org/10.48550/arXiv.2609.09798
+* Li, J., Guo, M., & Nguyen, H. X. (2026). CS-Guard: Benchmarking LLM guardrails for code generation security. _arXiv preprint arXiv:2609.09798_. https://doi.org/10.48550/arXiv.2609.09798 [[PDF]](https://arxiv.org/pdf/2609.09798)
 * Zhang, Y., & Nguyen, H. X. (2026). DisCoConnect: Computing connectivity in hypergraph category string diagrams via metagraph algorithms. _SoftwareX_, 35, 102779. https://doi.org/10.1016/j.softx.2026.102779
-* Li, J., Neumann, A., Neumann, F., Nguyen, H. X., & Guo, M. (2026). Taming treewidth DP with modulators: A general booster for graph heuristics. _Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)_, Bremen, Germany, 15–21 August 2026, 6299–6307. https://doi.org/10.24963/ijcai.2026/701 **CORE A\***
-* Parsonage, E., Roughan, M., & Nguyen, H. X. (2026). Transitivity preserving projection in directed hypergraphs. _Theoretical Computer Science_, 116141. https://doi.org/10.1016/j.tcs.2026.116141 **Q1**
-* Vu, T., & Nguyen, H. X. (2026). Toward human-aware Active Directory defense with fine-tuned LLMs. _Proceedings of the AAAI Symposium Series (AAAI 2026 Summer Symposium on Human-Aware AI Agents for the Cyber Battlefield)_, 9(1), 332–335.
-* Bulinski, K., White, L. B., & Nguyen, H. X. (2026). Pure or unstable: A generic dichotomy for strong Stackelberg commitments. _arXiv preprint arXiv:2606.17415_. https://doi.org/10.48550/arXiv.2606.17415
-* Nguyen, N., Nguyen, D. D., Rizzo, G., & Nguyen, H. X. (2026). Boltzmann-based exploration for robust decentralized multi-agent planning. _Proceedings of the 36th International Conference on Automated Planning and Scheduling (ICAPS 2026)_. **CORE A\***
+* Li, J., Neumann, A., Neumann, F., Nguyen, H. X., & Guo, M. (2026). Taming treewidth DP with modulators: A general booster for graph heuristics. _Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026)_, Bremen, Germany, 15–21 August 2026, 6299–6307. https://doi.org/10.24963/ijcai.2026/701 **CORE A\*** [[PDF]](https://www.ijcai.org/proceedings/2026/0701.pdf)
+* Parsonage, E., Roughan, M., & Nguyen, H. X. (2026). Transitivity preserving projection in directed hypergraphs. _Theoretical Computer Science_, 116141. https://doi.org/10.1016/j.tcs.2026.116141 **Q1** [[PDF]](https://arxiv.org/pdf/2509.04543)
+* Vu, T., & Nguyen, H. X. (2026). Toward human-aware Active Directory defense with fine-tuned LLMs. _Proceedings of the AAAI Symposium Series (AAAI 2026 Summer Symposium on Human-Aware AI Agents for the Cyber Battlefield)_, 9(1), 332–335. [[PDF]](https://ojs.aaai.org/index.php/AAAI-SS/article/download/42949/50509)
+* Bulinski, K., White, L. B., & Nguyen, H. X. (2026). Pure or unstable: A generic dichotomy for strong Stackelberg commitments. _arXiv preprint arXiv:2606.17415_. https://doi.org/10.48550/arXiv.2606.17415 [[PDF]](https://arxiv.org/pdf/2606.17415)
+* Nguyen, N., Nguyen, D. D., Rizzo, G., & Nguyen, H. X. (2026). Boltzmann-based exploration for robust decentralized multi-agent planning. _Proceedings of the 36th International Conference on Automated Planning and Scheduling (ICAPS 2026)_. **CORE A\*** [[PDF]](https://ojs.aaai.org/index.php/ICAPS/article/download/42854/50414)
 * Aslam, S., & Nguyen, H. X. (2026). ICSim++: A CAN/CAN FD simulator for modern vehicle networks with LLM-assisted workflows. _SoftwareX_, 34, 102722. https://doi.org/10.1016/j.softx.2026.102722
 
 ### 2025
 
-* Nguyen, N., Nguyen, D. D., Kim, J., Rizzo, G., & Nguyen, H. X. (2025). Survive and thrive: Decentralized multi-agent coordination under attrition risks. _IEEE Transactions on Mobile Computing_. **Q1 · IF 8.8**
-* Nguyen, N. L., Falkner, N., & Nguyen, H. X. (2025). Scalable Active Directory defense with α-metagraph. _Proceedings of the 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025)_, Gold Coast, Australia, 19–22 October 2025. **CORE A**
-* Goel, D., Ward, M., Neumann, A., Neumann, F., Nguyen, H. X., & Guo, M. (2025). Hardening Active Directory graphs via evolutionary diversity optimization-based policies. _ACM Transactions on Evolutionary Learning_, 5(3), 1–36. https://doi.org/10.1145/3688401 **Q1 · IF 4.53**
-* Zhang, Y., Ward, M., & Nguyen, H. X. (2025). Rethinking attack path management: A new metric for choke points in attack graphs. _Proceedings of the 38th IEEE Computer Security Foundations Symposium (CSF 2025)_. **CORE A**
+* Nguyen, N., Nguyen, D. D., Kim, J., Rizzo, G., & Nguyen, H. X. (2025). Survive and thrive: Decentralized multi-agent coordination under attrition risks. _IEEE Transactions on Mobile Computing_. **Q1 · IF 8.8** [[PDF]](/files/Survive_and_Thrive_Decentralized_Multi-Agent_Coordination_Under_Attrition_Risks_TMC2025.pdf)
+* Nguyen, N. L., Falkner, N., & Nguyen, H. X. (2025). Scalable Active Directory defense with α-metagraph. _Proceedings of the 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025)_, Gold Coast, Australia, 19–22 October 2025. **CORE A** [[PDF]](/files/Scalable_Active_Directory_Defense_with_-Metagraph_RAID_2025.pdf)
+* Goel, D., Ward, M., Neumann, A., Neumann, F., Nguyen, H. X., & Guo, M. (2025). Hardening Active Directory graphs via evolutionary diversity optimization-based policies. _ACM Transactions on Evolutionary Learning_, 5(3), 1–36. https://doi.org/10.1145/3688401 **Q1 · IF 4.53** [[PDF]](/files/Hardening_AD_2025.pdf)
+* Zhang, Y., Ward, M., & Nguyen, H. X. (2025). Rethinking attack path management: A new metric for choke points in attack graphs. _Proceedings of the 38th IEEE Computer Security Foundations Symposium (CSF 2025)_. **CORE A** [[PDF]](/files/Rethinking_Attack_Path_Management_A_New_Metric_for_Choke_Points_in_Attack_Graphs_CSF_2025.pdf)
 * Pogrebna, G., & Nguyen, H. X. (2025). Behavioural data science of cybersecurity. In _The Cambridge Handbook of Behavioural Data Science_. Cambridge University Press.
-* Ngo, Q. H., Guo, M., & Nguyen, H. X. (2025). Adaptive wizard for removing cross-tier misconfigurations in Active Directory. _arXiv preprint arXiv:2505.01028_. https://doi.org/10.48550/arXiv.2505.01028
+* Ngo, Q. H., Guo, M., & Nguyen, H. X. (2025). Adaptive wizard for removing cross-tier misconfigurations in Active Directory. _arXiv preprint arXiv:2505.01028_. https://doi.org/10.48550/arXiv.2505.01028 [[PDF]](https://arxiv.org/pdf/2505.01028)
 
 ### 2024
 
 * Arsalaan, A. S., Fida, M.-R., & Nguyen, H. X. (2024). UAVs relay in emergency communications with strict requirements on quality of information. _IEEE Transactions on Vehicular Technology_, 74(3), 4877–4892. **Q1 · IF 7.5**
-* Nguyen, N., Nguyen, D. D., Rizzo, G., & Nguyen, H. X. (2024). United we stand: Decentralized multi-agent planning with attrition. _Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2024)_, Santiago de Compostela, Spain, 19–24 October 2024. **CORE A**
-* Zhang, Y., Ward, M., & Nguyen, H. X. (2024). Practical anytime algorithms for judicious partitioning of Active Directory attack graphs. _Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)_, Jeju, South Korea, 3–9 August 2024. **CORE A\***
-* Nguyen, N. L., Falkner, N., & Nguyen, H. X. (2024). Synthesizing realistic enterprise Active Directory attack graphs with ADSynth. _Proceedings of the ACM SIGCOMM 2024 Conference: Posters and Demos_, Sydney, Australia, 107–109. **CORE A\***
-* Nguyen, N. L., Falkner, N., & Nguyen, H. X. (2024). ADSynth: Synthesizing realistic Active Directory attack graphs. _Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2024)_, Brisbane, Australia, 24–27 June 2024. **CORE A**
+* Nguyen, N., Nguyen, D. D., Rizzo, G., & Nguyen, H. X. (2024). United we stand: Decentralized multi-agent planning with attrition. _Proceedings of the 27th European Conference on Artificial Intelligence (ECAI 2024)_, Santiago de Compostela, Spain, 19–24 October 2024. **CORE A** [[PDF]](https://arxiv.org/pdf/2407.08254)
+* Zhang, Y., Ward, M., & Nguyen, H. X. (2024). Practical anytime algorithms for judicious partitioning of Active Directory attack graphs. _Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)_, Jeju, South Korea, 3–9 August 2024. **CORE A\*** [[PDF]](/files/IJCAI_2024.pdf)
+* Nguyen, N. L., Falkner, N., & Nguyen, H. X. (2024). Synthesizing realistic enterprise Active Directory attack graphs with ADSynth. _Proceedings of the ACM SIGCOMM 2024 Conference: Posters and Demos_, Sydney, Australia, 107–109. **CORE A\*** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3672202.3673732)
+* Nguyen, N. L., Falkner, N., & Nguyen, H. X. (2024). ADSynth: Synthesizing realistic Active Directory attack graphs. _Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2024)_, Brisbane, Australia, 24–27 June 2024. **CORE A** [[PDF]](/files/ADSynth_DSN_2024.pdf)
 * Nguyen, N., Nguyen, D. D., Kim, J., Rizzo, G., & Nguyen, H. X. (2024). Decentralized coordination for multi-agent data collection in dynamic environments. _IEEE Transactions on Mobile Computing_. **Q1 · IF 8.8**
-* Ngo, Q. H., Guo, M., & Nguyen, H. X. (2024). Catch me if you can: Effective honeypot placement in dynamic Active Directory attack graphs. _Proceedings of the IEEE International Conference on Computer Communications (INFOCOM 2024)_. **CORE A\***
-* Ngo, Q. H., Guo, M., & Nguyen, H. X. (2024). Optimizing cyber response time on temporal Active Directory networks using decoys. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2024)_. **CORE A**
-* Guo, M., Li, J., Neumann, A., Neumann, F., & Nguyen, H. X. (2024). Limited query graph connectivity test. _Proceedings of the AAAI Conference on Artificial Intelligence_, 38(18), 20718–20725. https://doi.org/10.1609/aaai.v38i18.30059 **CORE A\***
+* Ngo, Q. H., Guo, M., & Nguyen, H. X. (2024). Catch me if you can: Effective honeypot placement in dynamic Active Directory attack graphs. _Proceedings of the IEEE International Conference on Computer Communications (INFOCOM 2024)_. **CORE A\*** [[PDF]](/files/Catch_Me_if_You_Can_Effective_Honeypot_Placement_in_Dynamic_AD_Attack_Graphs_Infocom_2024.pdf)
+* Ngo, Q. H., Guo, M., & Nguyen, H. X. (2024). Optimizing cyber response time on temporal Active Directory networks using decoys. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2024)_. **CORE A** [[PDF]](/files/2024_Optimizing_cyber_response_time_on_temporal.pdf)
+* Guo, M., Li, J., Neumann, A., Neumann, F., & Nguyen, H. X. (2024). Limited query graph connectivity test. _Proceedings of the AAAI Conference on Artificial Intelligence_, 38(18), 20718–20725. https://doi.org/10.1609/aaai.v38i18.30059 **CORE A\*** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/30059/31864)
 * Parsonage, E., Ward, M., & Nguyen, H. X. (2024). Higher-order graph models in network security. _Proceedings of the International Workshop on Resilient Networks Design and Modeling (RNDM 2024)_.
 * Luo, B., Chambers, A., & Nguyen, H. X. (2024). NetDetective: Dynamic cyber situational awareness. _Proceedings of the Australasian Data Science and Machine Learning Conference (AusDM 2024)_.
 * Cormack, J., Roughan, M., & Nguyen, H. X. (2024). Classifying maritime vessel behaviour from AIS using statistical features. _Proceedings of the Australasian Data Science and Machine Learning Conference (AusDM 2024)_.
-* White, L. B., Nguyen, D. D., & Nguyen, H. X. (2024). Satisfaction and regret in Stackelberg games. _Proceedings of the 15th Workshop on Optimization and Learning in Multiagent Systems (AAMAS 2024 Workshop)_.
-* Dinani, M. A., Holzer, A., Nguyen, H. X., Marsan, M. A., & Rizzo, G. (2024). Context-aware orchestration of energy-efficient gossip learning schemes. _Proceedings of the 5th IEEE World AI IoT Congress (AIIoT 2024)_, Seattle, USA, 29–31 May 2024.
+* White, L. B., Nguyen, D. D., & Nguyen, H. X. (2024). Satisfaction and regret in Stackelberg games. _Proceedings of the 15th Workshop on Optimization and Learning in Multiagent Systems (AAMAS 2024 Workshop)_. [[PDF]](https://arxiv.org/pdf/2408.11340)
+* Dinani, M. A., Holzer, A., Nguyen, H. X., Marsan, M. A., & Rizzo, G. (2024). Context-aware orchestration of energy-efficient gossip learning schemes. _Proceedings of the 5th IEEE World AI IoT Congress (AIIoT 2024)_, Seattle, USA, 29–31 May 2024. [[PDF]](https://arxiv.org/pdf/2404.12023)
 
 ### 2023
 
-* Nguyen, B. L., Nguyen, D. D., Nguyen, H. X., Ngo, D. T., & Wagner, M. (2023). Multi-agent task assignment in vehicular edge computing: A regret-matching learning-based approach. _IEEE Transactions on Emerging Topics in Computational Intelligence_. https://doi.org/10.1109/TETCI.2023.3339540 **Q2 · IF 6.0**
-* Dinani, M. A., Holzer, A., Nguyen, H. X., Marsan, M. A., & Rizzo, G. (2023). A gossip learning approach to urban trajectory nowcasting for anticipatory RAN management. _IEEE Transactions on Mobile Computing_. **Q1 · IF 8.8**
-* Chowdhury, A., & Nguyen, H. X. (2023). CoZure: Context free grammar co-pilot tool for finding new lateral movements in Azure Active Directory. _Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)_, Hong Kong, October 2023. **CORE A**
-* Phu, A. T., Li, B., Ullah, F., Huque, T. U., Naha, R., Babar, M. A., & Nguyen, H. X. (2023). Defending SDN against packet injection attacks using deep learning. _Computer Networks_, 109935. **Q1 · IF 4.7**
-* Chowdhury, A., Nguyen, H. X., Ashenden, D., & Pogrebna, G. (2023). POSTER: A teacher-student with human feedback model for human-AI collaboration in cybersecurity. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security (AsiaCCS 2023)_, 1040–1042. **CORE A**
-* Zhang, Y., Ward, M., Guo, M., & Nguyen, H. X. (2023). A scalable double oracle algorithm for hardening large Active Directory systems. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security (AsiaCCS 2023)_, 993–1003. **CORE A**
-* Goel, D., Neumann, A., Neumann, F., Nguyen, H. X., & Guo, M. (2023). Evolving reinforcement learning environment to minimize learner's achievable reward: An application on hardening Active Directory systems. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2023)_. **CORE A**
-* Guo, M., Ward, M., Neumann, A., Neumann, F., & Nguyen, H. X. (2023). Scalable edge blocking algorithms for defending Active Directory style attack graphs. _Proceedings of the AAAI Conference on Artificial Intelligence_, 37, 5649–5656. **CORE A\***
-* Nguyen, D. D., White, L. B., & Nguyen, H. X. (2023). Bayesian rationality in satisfaction games. _Proceedings of the OptLearnMAS-23 Workshop_.
-* Nguyen, D. D., White, L. B., & Nguyen, H. X. (2023). Social optimum equilibrium selection for distributed multi-agent optimization. _Proceedings of the 5th Games, Agents, and Incentives Workshop (GAIW 2023)_.
-* Ngo, Q. H., Guo, M., & Nguyen, H. X. (2023). Near optimal strategies for honeypots placement in dynamic and large Active Directory networks. _Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)_, 2517–2519. **CORE A\***
+* Nguyen, B. L., Nguyen, D. D., Nguyen, H. X., Ngo, D. T., & Wagner, M. (2023). Multi-agent task assignment in vehicular edge computing: A regret-matching learning-based approach. _IEEE Transactions on Emerging Topics in Computational Intelligence_. https://doi.org/10.1109/TETCI.2023.3339540 **Q2 · IF 6.0** [[PDF]](https://arxiv.org/pdf/2203.05281)
+* Dinani, M. A., Holzer, A., Nguyen, H. X., Marsan, M. A., & Rizzo, G. (2023). A gossip learning approach to urban trajectory nowcasting for anticipatory RAN management. _IEEE Transactions on Mobile Computing_. **Q1 · IF 8.8** [[PDF]](https://arodes.hes-so.ch/record/13196/files/rizzo_2023_A_Gossip_red.pdf)
+* Chowdhury, A., & Nguyen, H. X. (2023). CoZure: Context free grammar co-pilot tool for finding new lateral movements in Azure Active Directory. _Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)_, Hong Kong, October 2023. **CORE A** [[PDF]](/files/Cozure_RAID_2023.pdf)
+* Phu, A. T., Li, B., Ullah, F., Huque, T. U., Naha, R., Babar, M. A., & Nguyen, H. X. (2023). Defending SDN against packet injection attacks using deep learning. _Computer Networks_, 109935. **Q1 · IF 4.7** [[PDF]](/files/computer_networks_2023.pdf)
+* Chowdhury, A., Nguyen, H. X., Ashenden, D., & Pogrebna, G. (2023). POSTER: A teacher-student with human feedback model for human-AI collaboration in cybersecurity. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security (AsiaCCS 2023)_, 1040–1042. **CORE A** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3579856.3592829)
+* Zhang, Y., Ward, M., Guo, M., & Nguyen, H. X. (2023). A scalable double oracle algorithm for hardening large Active Directory systems. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security (AsiaCCS 2023)_, 993–1003. **CORE A** [[PDF]](/files/AsiaCCS_2023.pdf)
+* Goel, D., Neumann, A., Neumann, F., Nguyen, H. X., & Guo, M. (2023). Evolving reinforcement learning environment to minimize learner's achievable reward: An application on hardening Active Directory systems. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2023)_. **CORE A** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583131.3590436)
+* Guo, M., Ward, M., Neumann, A., Neumann, F., & Nguyen, H. X. (2023). Scalable edge blocking algorithms for defending Active Directory style attack graphs. _Proceedings of the AAAI Conference on Artificial Intelligence_, 37, 5649–5656. **CORE A\*** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/25701/25473)
+* Nguyen, D. D., White, L. B., & Nguyen, H. X. (2023). Bayesian rationality in satisfaction games. _Proceedings of the OptLearnMAS-23 Workshop_. [[PDF]](https://arxiv.org/pdf/2307.13247)
+* Nguyen, D. D., White, L. B., & Nguyen, H. X. (2023). Social optimum equilibrium selection for distributed multi-agent optimization. _Proceedings of the 5th Games, Agents, and Incentives Workshop (GAIW 2023)_. [[PDF]](https://arxiv.org/pdf/2307.13242)
+* Ngo, Q. H., Guo, M., & Nguyen, H. X. (2023). Near optimal strategies for honeypots placement in dynamic and large Active Directory networks. _Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)_, 2517–2519. **CORE A\*** [[PDF]](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2517.pdf)
 
 ### 2022
 
-* Guo, M., Li, J., Neumann, A., Neumann, F., & Nguyen, H. X. (2022). Practical fixed-parameter algorithms for defending Active Directory style attack graphs. _Proceedings of the AAAI Conference on Artificial Intelligence_, 36, 9360–9367. **CORE A\***
-* Goel, D., Ward, M., Neumann, A., Neumann, F., Nguyen, H. X., & Guo, M. (2022). Defending Active Directory by combining neural network based dynamic program and evolutionary diversity optimisation. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2022)_, 1191–1199. **CORE A**
+* Guo, M., Li, J., Neumann, A., Neumann, F., & Nguyen, H. X. (2022). Practical fixed-parameter algorithms for defending Active Directory style attack graphs. _Proceedings of the AAAI Conference on Artificial Intelligence_, 36, 9360–9367. **CORE A\*** [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/21167/20916)
+* Goel, D., Ward, M., Neumann, A., Neumann, F., Nguyen, H. X., & Guo, M. (2022). Defending Active Directory by combining neural network based dynamic program and evolutionary diversity optimisation. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO 2022)_, 1191–1199. **CORE A** [[PDF]](/files/2022_Defending_Active_Directory_by_combining_neural.pdf)
 * Dinani, M. A., Holzer, A., Nguyen, H. X., Marsan, M. A., & Rizzo, G. (2022). Vehicle position nowcasting with gossip learning. _Proceedings of the 2022 IEEE Wireless Communications and Networking Conference (WCNC 2022)_, 728–733.
 * Nguyen, N., Nguyen, D. D., Kim, J., Rizzo, G., & Nguyen, H. X. (2022). Multi-agent data collection in non-stationary environments. _Proceedings of the 2022 IEEE 23rd International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2022)_, 120–129. **CORE A**
-* Nguyen, V., Le, T., Tantithamthavorn, C., Grundy, J., Nguyen, H. X., & Phung, D. (2022). Cross project software vulnerability detection via domain adaptation and max-margin principle. _arXiv preprint arXiv:2209.10406_. https://doi.org/10.48550/arXiv.2209.10406
-* Nguyen, V., Le, T., Tantithamthavorn, C., Fu, M., Grundy, J., Nguyen, H. X., Camtepe, S., Quirk, P., & Phung, D. (2022). Statement-level vulnerability detection: Learning vulnerability patterns through information theory and contrastive learning. _arXiv preprint arXiv:2209.10414_. https://doi.org/10.48550/arXiv.2209.10414
+* Nguyen, V., Le, T., Tantithamthavorn, C., Grundy, J., Nguyen, H. X., & Phung, D. (2022). Cross project software vulnerability detection via domain adaptation and max-margin principle. _arXiv preprint arXiv:2209.10406_. https://doi.org/10.48550/arXiv.2209.10406 [[PDF]](https://arxiv.org/pdf/2209.10406)
+* Nguyen, V., Le, T., Tantithamthavorn, C., Fu, M., Grundy, J., Nguyen, H. X., Camtepe, S., Quirk, P., & Phung, D. (2022). Statement-level vulnerability detection: Learning vulnerability patterns through information theory and contrastive learning. _arXiv preprint arXiv:2209.10414_. https://doi.org/10.48550/arXiv.2209.10414 [[PDF]](https://arxiv.org/pdf/2209.10414)
 
 ### 2021
 
 * Dinani, M. A., Holzer, A., Nguyen, H. X., Marsan, M. A., & Rizzo, G. (2021). Gossip learning of personalized models for vehicle trajectory prediction. _Proceedings of the IEEE Wireless Communications and Networking Conference (WCNC 2021)_.
 * Arsalaan, A. S., Nguyen, H. X., & Fida, M.-R. (2021). Impact of bushfire dynamics on the performance of MANETs. _Proceedings of the 16th IEEE/IFIP Wireless On-Demand Network Systems and Services Conference (WONS 2021)_, 55–58.
-* Ward, M., Datta, A., Nguyen, H. X., & Eshraghian, J. K. (2021). Efficient network analysis under single link deletion. _arXiv preprint arXiv:2108.06891_. https://doi.org/10.48550/arXiv.2108.06891
-* Sarafraz, M. M., Tran, N. N., Nguyen, H. X., Fulcheri, L., Burton, R., Wadewitz, P., & Hessel, V. (2021). Tri-fold process integration leveraging high- and low-temperature plasmas: From biomass to fertilizers with local energy and for local use. _Journal of Advanced Manufacturing and Processing_, 3(2), e10081.
+* Ward, M., Datta, A., Nguyen, H. X., & Eshraghian, J. K. (2021). Efficient network analysis under single link deletion. _arXiv preprint arXiv:2108.06891_. https://doi.org/10.48550/arXiv.2108.06891 [[PDF]](https://arxiv.org/pdf/2108.06891v1)
+* Sarafraz, M. M., Tran, N. N., Nguyen, H. X., Fulcheri, L., Burton, R., Wadewitz, P., & Hessel, V. (2021). Tri-fold process integration leveraging high- and low-temperature plasmas: From biomass to fertilizers with local energy and for local use. _Journal of Advanced Manufacturing and Processing_, 3(2), e10081. [[PDF]](https://wrap.warwick.ac.uk/168525/1/WRAP-Tri%E2%80%90fold-process-integration-leveraging-high-and-low%E2%80%90temperature-plasmas-from-biomass-to-fertilizers-with-local-energy-and-for-local%20use-Hessel-2021.pdf)
 
 ### 2020
 
-* Hessel, V., Tran, N. N., Orandi, S., Asrami, M. R., Goodsite, M. E., & Nguyen, H. X. (2020). Continuous-flow extraction of adjacent metals: A disruptive economic window for in-situ resource utilization of asteroids? _Angewandte Chemie International Edition_. **Q1 · IF 17.6**
-* Ranathunga, D., Roughan, M., & Nguyen, H. X. (2020). Verifiable policy-defined networking using metagraphs. _IEEE Transactions on Dependable and Secure Computing_, 19(1), 482–494. **Q1 · IF 6.8**
+* Hessel, V., Tran, N. N., Orandi, S., Asrami, M. R., Goodsite, M. E., & Nguyen, H. X. (2020). Continuous-flow extraction of adjacent metals: A disruptive economic window for in-situ resource utilization of asteroids? _Angewandte Chemie International Edition_. **Q1 · IF 17.6** [[PDF]](/files/2020_Continuous_flow_extraction_of_adjacent_metals.pdf)
+* Ranathunga, D., Roughan, M., & Nguyen, H. X. (2020). Verifiable policy-defined networking using metagraphs. _IEEE Transactions on Dependable and Secure Computing_, 19(1), 482–494. **Q1 · IF 6.8** [[PDF]](/files/2020_Verifiable_policy_defined_networking_using_metagraphs.pdf)
 * Ranathunga, D., Roughan, M., & Nguyen, H. X. (2020). Mathematical reconciliation of medical privacy policies. _ACM Transactions on Management Information Systems_. **Q1 · IF 5.2**
-* Arsalaan, A. S., Nguyen, H. X., Coyle, A., & Fida, M.-R. (2020). Quality of information with minimum requirements for emergency communications. _Ad Hoc Networks_, 111, 102331. **Q1 · IF 5.4**
-* Dinani, M. A., Holzer, A., Nguyen, H. X., Marsan, M. A., & Rizzo, G. (2020). Poster: Mobile gossip learning for trajectory prediction.
+* Arsalaan, A. S., Nguyen, H. X., Coyle, A., & Fida, M.-R. (2020). Quality of information with minimum requirements for emergency communications. _Ad Hoc Networks_, 111, 102331. **Q1 · IF 5.4** [[PDF]](/files/2020_Quality_of_information_with_minimum_requirements.pdf)
+* Dinani, M. A., Holzer, A., Nguyen, H. X., Marsan, M. A., & Rizzo, G. (2020). Poster: Mobile gossip learning for trajectory prediction. [[PDF]](https://arodes.hes-so.ch/record/8746/files/Author%20postprint.pdf)
 * Nguyen, H. X., Yego, K., & Sioutis, C. (2020). BGP based software defined networks for resilient combat cloud. _Proceedings of the 2020 Military Communications and Information Systems Conference (MilCIS 2020)_, 1–6.
 
 ### 2019
 
 * Le, B.-D., Shen, H., Nguyen, H. X., & Falkner, N. (2019). Improved network community detection using meta-heuristic based label propagation. _Applied Intelligence_, 49, 1451–1466. **Q2 · IF 3.5**
-* Manzo, G., Otálora, S., Braun, T., Marsan, M. A., Rizzo, G., & Nguyen, H. X. (2019). DeepFloat: Resource-efficient dynamic management of vehicular floating content. _Proceedings of the 31st International Teletraffic Congress (ITC 31)_, 46–54.
+* Manzo, G., Otálora, S., Braun, T., Marsan, M. A., Rizzo, G., & Nguyen, H. X. (2019). DeepFloat: Resource-efficient dynamic management of vehicular floating content. _Proceedings of the 31st International Teletraffic Congress (ITC 31)_, 46–54. [[PDF]](https://arxiv.org/pdf/1906.07098)
 * Pham, T., McMahon, J., & Nguyen, H. X. (2019). Enabling heterogeneous 5G simulations with SDN adapters. _Testbeds and Research Infrastructures for the Development of Networks and Communications: 14th EAI International Conference (TridentCom 2019)_, 163–183. Springer.
 
 ### 2018
 
-* Nguyen, D. D., Nguyen, H. X., & White, L. B. (2018). Evaluating performance of RAT selection algorithms for 5G HetNets. _IEEE Access_, 6, 61212–61222. **Q2 · IF 4.2**
-* Coyle, A., Nguyen, H. X., Boyd, P., & Judd, G. (2018). Improving the performance of land tactical digital networks using measures of network capacity. _Proceedings of the 2018 Military Communications and Information Systems Conference (MilCIS 2018)_, 1–6.
+* Nguyen, D. D., Nguyen, H. X., & White, L. B. (2018). Evaluating performance of RAT selection algorithms for 5G HetNets. _IEEE Access_, 6, 61212–61222. **Q2 · IF 4.2** [[PDF]](/files/2018_Evaluating_performance_of_RAT_selection_algorithms.pdf)
+* Coyle, A., Nguyen, H. X., Boyd, P., & Judd, G. (2018). Improving the performance of land tactical digital networks using measures of network capacity. _Proceedings of the 2018 Military Communications and Information Systems Conference (MilCIS 2018)_, 1–6. [[PDF]](/files/2018_Improving_the_performance_of_land_tactical.pdf)
 * Arsalaan, A. S., Nguyen, H. X., & Coyle, A. (2018). Evaluating the performance of QoI algorithms in realistic MANETs. _Proceedings of the 28th International Telecommunication Networks and Applications Conference (ITNAC 2018)_, 1–6.
 * Tran, N. N., Tran, Q. D., Shena, S., Nguyen, H. X., Arjomandic, M., & Hessel, V. (2018). Guardian satellite-based flow-chemistry system producing quantum dots as counter measure to divert missile attack. _Proceedings of the 18th Australian Space Research Conference_.
 
 ### 2017
 
-* Ranathunga, D., Nguyen, H. X., & Roughan, M. (2017). MGtoolkit: A Python package for implementing metagraphs. _SoftwareX_, 6, 91–93.
+* Ranathunga, D., Nguyen, H. X., & Roughan, M. (2017). MGtoolkit: A Python package for implementing metagraphs. _SoftwareX_, 6, 91–93. [[PDF]](/files/2017_MGtoolkit_A_Python_package_for_implementing.pdf)
 * Nguyen, D. D., Nguyen, H. X., & White, L. B. (2017). Reinforcement learning with network-assisted feedback for heterogeneous RAT selection. _IEEE Transactions on Wireless Communications_, 16(9), 6062–6076. **Q1 · IF 10.3** [[PDF]](/files/RAT_Selection.pdf)
-* Le, B.-D., Nguyen, H. X., Shen, H., & Falkner, N. (2017). GLFR: A generalized LFR benchmark for testing community detection algorithms. _Proceedings of the 26th International Conference on Computer Communication and Networks (ICCCN 2017)_, 1–9. **CORE A**
+* Le, B.-D., Nguyen, H. X., Shen, H., & Falkner, N. (2017). GLFR: A generalized LFR benchmark for testing community detection algorithms. _Proceedings of the 26th International Conference on Computer Communication and Networks (ICCCN 2017)_, 1–9. **CORE A** [[PDF]](/files/2017_GLFR_A_generalized_LFR_benchmark_for.pdf)
 
 ### 2016
 
 * Ranathunga, D., Roughan, M., Nguyen, H. X., Kernick, P., & Falkner, N. (2016). Case studies of SCADA firewall configurations and the implications for best practices. _IEEE Transactions on Network and Service Management_, 13(4), 871–884. **Q1 · IF 5.7**
-* Nguyen, H. X., & Northcote, B. (2016). User spectral efficiency: Combining spectral efficiency with user experience. _Proceedings of the 2016 IEEE International Conference on Communications (ICC 2016)_, 1–6.
+* Nguyen, H. X., & Northcote, B. (2016). User spectral efficiency: Combining spectral efficiency with user experience. _Proceedings of the 2016 IEEE International Conference on Communications (ICC 2016)_, 1–6. [[PDF]](/files/2016_User_spectral_efficiency_Combining_spectral_efficiency.pdf)
 * Nguyen, D. D., Nguyen, H. X., & White, L. B. (2016). Performance of adaptive RAT selection algorithms in 5G heterogeneous wireless networks. _Proceedings of the 26th International Telecommunication Networks and Applications Conference (ITNAC 2016)_, 70–75.
 * Le, B.-D., Nguyen, H. X., & Shen, H. (2016). Community detection in networks with less significant community structure. _Advanced Data Mining and Applications: 12th International Conference (ADMA 2016)_, Gold Coast, Australia, 65–80. Springer.
-* Nguyen, D. D., White, L. B., & Nguyen, H. X. (2016). Adaptive multiagent reinforcement learning with non-positive regret. _AI 2016: Advances in Artificial Intelligence: 29th Australasian Joint Conference_, Hobart, Australia, 29–41. Springer.
-* Ranathunga, D., Roughan, M., Kernick, P., Falkner, N., Nguyen, H. X., Mihailescu, M., & McClintock, M. (2016). Verifiable policy-defined networking for security management. _Proceedings of the 13th International Conference on Security and Cryptography (SECRYPT 2016)_, 344–351.
-* Nguyen, H. X., Webb, M. R., & Naguleswaran, S. (2016). Achieving policy defined networking for military operations. _Proceedings of the 2016 Military Communications and Information Systems Conference (MilCIS 2016)_, 1–6.
+* Nguyen, D. D., White, L. B., & Nguyen, H. X. (2016). Adaptive multiagent reinforcement learning with non-positive regret. _AI 2016: Advances in Artificial Intelligence: 29th Australasian Joint Conference_, Hobart, Australia, 29–41. Springer. [[PDF]](/files/2016_Adaptive_multiagent_reinforcement_learning_with_non.pdf)
+* Ranathunga, D., Roughan, M., Kernick, P., Falkner, N., Nguyen, H. X., Mihailescu, M., & McClintock, M. (2016). Verifiable policy-defined networking for security management. _Proceedings of the 13th International Conference on Security and Cryptography (SECRYPT 2016)_, 344–351. [[PDF]](/files/2016_Verifiable_policy_defined_networking_for_security.pdf)
+* Nguyen, H. X., Webb, M. R., & Naguleswaran, S. (2016). Achieving policy defined networking for military operations. _Proceedings of the 2016 Military Communications and Information Systems Conference (MilCIS 2016)_, 1–6. [[PDF]](/files/2016_Achieving_policy_defined_networking_for_military.pdf)
 * Nguyen, H. X., Pham, T., Hoang, K., Nguyen, D. D., & Parsonage, E. (2016). A prototype of policy defined wireless access networks. _Proceedings of the 26th International Telecommunication Networks and Applications Conference (ITNAC 2016)_, 101–106.
 * Nguyen, H. X., Naguleswaran, S., & Webb, M. R. (2016). Emergency communication in Australia: Current situation and future directions. _Proceedings of the 5th Disaster and Emergency Management Conference_, Gold Coast, QLD, Australia, 30–31 May 2016.
 * Nguyen, D. D., Nguyen, H. X., & White, L. B. (2016). _Distributed RAT selection with enhanced reinforcement learning_. Technical report, The University of Adelaide.
@@ -125,18 +125,18 @@ All publications
 ### 2015
 
 * Ranathunga, D., Roughan, M., Kernick, P., Falkner, N., & Nguyen, H. X. (2015). Identifying the missing aspects of the ANSI/ISA best practices for security policy. _Proceedings of the 1st ACM Workshop on Cyber-Physical System Security_, 37–48.
-* Mihailescu, M., Nguyen, H. X., & Webb, M. R. (2015). Enhancing wireless communications with software defined networking. _Proceedings of the 2015 Military Communications and Information Systems Conference (MilCIS 2015)_, 1–6.
+* Mihailescu, M., Nguyen, H. X., & Webb, M. R. (2015). Enhancing wireless communications with software defined networking. _Proceedings of the 2015 Military Communications and Information Systems Conference (MilCIS 2015)_, 1–6. [[PDF]](/files/2015_Enhancing_wireless_communications_with_software_defined.pdf)
 
 ### 2013
 
 * Nguyen, H. X., & Roughan, M. (2013). Multi-observer privacy-preserving hidden Markov models. _IEEE Transactions on Signal Processing_, 61(23), 6010–6019. **Q1 · IF 5.5**
-* Tune, P., Nguyen, H. X., & Roughan, M. (2013). Hidden Markov model identifiability via tensors. _Proceedings of the 2013 IEEE International Symposium on Information Theory (ISIT 2013)_, 2299–2303.
+* Tune, P., Nguyen, H. X., & Roughan, M. (2013). Hidden Markov model identifiability via tensors. _Proceedings of the 2013 IEEE International Symposium on Information Theory (ISIT 2013)_, 2299–2303. [[PDF]](https://arxiv.org/pdf/1305.0321)
 * Knight, S., Nguyen, H. X., Maennel, O., Phillips, I., Falkner, N., Bush, R., & Roughan, M. (2013). An automated system for emulated network experimentation. _Proceedings of the 9th ACM Conference on Emerging Networking Experiments and Technologies (CoNEXT 2013)_, 235–246. **CORE A**
 
 ### 2012
 
-* Nguyen, H. X., & Roughan, M. (2012). On the identifiability of multi-observer hidden Markov models. _Proceedings of the 2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2012)_, 1873–1876.
-* Nguyen, H. X., & Roughan, M. (2012). Multi-observer privacy-preserving hidden Markov models. _Proceedings of the 2012 IEEE Network Operations and Management Symposium (NOMS 2012)_, Maui, HI, USA, 514–517. https://doi.org/10.1109/NOMS.2012.6211944
+* Nguyen, H. X., & Roughan, M. (2012). On the identifiability of multi-observer hidden Markov models. _Proceedings of the 2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2012)_, 1873–1876. [[PDF]](/files/2012_On_the_identifiability_of_multi_observer.pdf)
+* Nguyen, H. X., & Roughan, M. (2012). Multi-observer privacy-preserving hidden Markov models. _Proceedings of the 2012 IEEE Network Operations and Management Symposium (NOMS 2012)_, Maui, HI, USA, 514–517. https://doi.org/10.1109/NOMS.2012.6211944 [[PDF]](/files/2012_Multi_observer_privacy_preserving_hidden_Markov.pdf)
 * Nguyen, H. X., & Roughan, M. (2012). Improving hidden Markov model inferences with private data from multiple observers. _IEEE Signal Processing Letters_, 19(10), 696–699. **Q2 · IF 3.6**
 * Knight, S., Falkner, N., Nguyen, H. X., Tune, P., & Roughan, M. (2012). I can see for miles: Re-visualizing the Internet. _IEEE Network_, 26(6), 26–32. **Q1 · IF 8.8**
 * Nguyen, H. X., & Roughan, M. (2012). Rigorous statistical analysis of Internet loss measurements. _IEEE/ACM Transactions on Networking_, 21(3), 734–745. **Q1 · IF 5.3**
@@ -144,18 +144,18 @@ All publications
 
 ### 2011
 
-* Knight, S., Nguyen, H. X., Falkner, N., Bowden, R., & Roughan, M. (2011). The Internet topology zoo. _IEEE Journal on Selected Areas in Communications_, 29(9), 1765–1775. **Q1 · IF 16.8**
-* Parsonage, E., Nguyen, H. X., & Roughan, M. (2011). Absorbing lexicographic products in metarouting.
-* Parsonage, E., Nguyen, H. X., Bowden, R., Knight, S., Falkner, N., & Roughan, M. (2011). Generalized graph products for network design and analysis. _Proceedings of the 19th IEEE International Conference on Network Protocols (ICNP 2011)_, 79–88. **CORE A**
-* Bowden, R., Nguyen, H. X., Falkner, N., Knight, S., & Roughan, M. (2011). Planarity of data networks. _Proceedings of the 23rd International Teletraffic Congress (ITC 23)_, 254–261.
+* Knight, S., Nguyen, H. X., Falkner, N., Bowden, R., & Roughan, M. (2011). The Internet topology zoo. _IEEE Journal on Selected Areas in Communications_, 29(9), 1765–1775. **Q1 · IF 16.8** [[PDF]](/files/2011_The_Internet_topology_zoo.pdf)
+* Parsonage, E., Nguyen, H. X., & Roughan, M. (2011). Absorbing lexicographic products in metarouting. [[PDF]](/files/2011_Absorbing_lexicographic_products_in_metarouting.pdf)
+* Parsonage, E., Nguyen, H. X., Bowden, R., Knight, S., Falkner, N., & Roughan, M. (2011). Generalized graph products for network design and analysis. _Proceedings of the 19th IEEE International Conference on Network Protocols (ICNP 2011)_, 79–88. **CORE A** [[PDF]](/files/2011_Generalized_graph_products_for_network_design.pdf)
+* Bowden, R., Nguyen, H. X., Falkner, N., Knight, S., & Roughan, M. (2011). Planarity of data networks. _Proceedings of the 23rd International Teletraffic Congress (ITC 23)_, 254–261. [[PDF]](/files/2011_Planarity_of_data_networks.pdf)
 
 ### 2010
 
-* Ghita, D., Nguyen, H. X., Kurant, M., Argyraki, K., & Thiran, P. (2010). Netscope: Practical network loss tomography. _Proceedings of IEEE INFOCOM 2010_, 1–9. **CORE A\***
-* Nguyen, H. X., & Roughan, M. (2010). Rigorous statistical analysis of Internet loss measurements. _Proceedings of the ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems_, 361–362. **CORE A\***
-* Coyle, A., & Nguyen, H. X. (2010). A frequency control algorithm for a mobile ad hoc network. _Proceedings of the 2010 Military Communications and Information Systems Conference (MilCIS 2010)_.
+* Ghita, D., Nguyen, H. X., Kurant, M., Argyraki, K., & Thiran, P. (2010). Netscope: Practical network loss tomography. _Proceedings of IEEE INFOCOM 2010_, 1–9. **CORE A\*** [[PDF]](https://infoscience.epfl.ch/server/api/core/bitstreams/952d0599-338d-4e7c-b1ea-b29af6201e09/content)
+* Nguyen, H. X., & Roughan, M. (2010). Rigorous statistical analysis of Internet loss measurements. _Proceedings of the ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems_, 361–362. **CORE A\*** [[PDF]](/files/2010_Rigorous_statistical_analysis_of_Internet_loss.pdf)
+* Coyle, A., & Nguyen, H. X. (2010). A frequency control algorithm for a mobile ad hoc network. _Proceedings of the 2010 Military Communications and Information Systems Conference (MilCIS 2010)_. [[PDF]](/files/2010_A_frequency_control_algorithm_for_a.pdf)
 * Nguyen, H. X., & Roughan, M. (2010). SAIL: Statistically accurate Internet loss measurement. _Proceedings of the ACM SIGMETRICS 2010 Conference_. **CORE A\***
-* Nguyen, H. X., Roughan, M., Knight, S., Falkner, N., Maennel, O., & Bush, R. (2010). How to build complex, large-scale emulated networks. _Testbeds and Research Infrastructures: Development of Networks and Communities: 6th International ICST Conference (TridentCom 2010)_, Berlin, Germany, 3–18. Springer.
+* Nguyen, H. X., Roughan, M., Knight, S., Falkner, N., Maennel, O., & Bush, R. (2010). How to build complex, large-scale emulated networks. _Testbeds and Research Infrastructures: Development of Networks and Communities: 6th International ICST Conference (TridentCom 2010)_, Berlin, Germany, 3–18. Springer. [[PDF]](/files/2010_How_to_build_complex_large_scale.pdf)
 
 ### 2009
 
@@ -174,21 +174,21 @@ All publications
 
 ### 2006
 
-* Nguyen, H. X., & Thiran, P. (2006). Using end-to-end data to infer lossy links in sensor networks. _Proceedings of IEEE INFOCOM 2006_. **CORE A\***
+* Nguyen, H. X., & Thiran, P. (2006). Using end-to-end data to infer lossy links in sensor networks. _Proceedings of IEEE INFOCOM 2006_. **CORE A\*** [[PDF]](https://infoscience.epfl.ch/server/api/core/bitstreams/83e6c5cd-5d8a-4c86-9b95-0f826506006a/content)
 * Kurant, M., Nguyen, H. X., & Thiran, P. (2006). Survey on dependable IP over fiber networks. In _Dependable Systems: Software, Computing, Networks: Research Results of the DICS Program_ (pp. 55–81). Springer.
 * Ducatelle, F., Gambardella, L. M., Kurant, M., Nguyen, H. X., & Thiran, P. (2006). Algorithms for failure protection in large IP-over-fiber and wireless ad hoc networks. In _Dependable Systems: Software, Computing, Networks: Research Results of the DICS Program_ (pp. 231–259). Springer.
 
 ### 2005
 
-* Nguyen, H. X., & Thiran, P. (2005). Binary versus analogue path monitoring in IP networks. _Passive and Active Network Measurement_, 97–107.
-* Nguyen, H. X., & Thiran, P. (2005). _Failure location in transparent optical networks: The asymmetry between false and missing alarms_. International Teletraffic Congress.
-* Dousse, O., Nguyen, H. X., & Thiran, P. (2005). Deux applications de processus ponctuels aux réseaux de communication. _GRETSI_.
-* Mas Machuca, C., Nguyen, H. X., & Thiran, P. (2005). Failure location in WDM networks. _Emerging Optical Network Technologies: Architectures, Protocols and Performance_, 379–399.
+* Nguyen, H. X., & Thiran, P. (2005). Binary versus analogue path monitoring in IP networks. _Passive and Active Network Measurement_, 97–107. [[PDF]](/files/2005_Binary_versus_analogue_path_monitoring_in.pdf)
+* Nguyen, H. X., & Thiran, P. (2005). _Failure location in transparent optical networks: The asymmetry between false and missing alarms_. International Teletraffic Congress. [[PDF]](/files/2005_Failure_location_in_transparent_optical_networks.pdf)
+* Dousse, O., Nguyen, H. X., & Thiran, P. (2005). Deux applications de processus ponctuels aux réseaux de communication. _GRETSI_. [[PDF]](/files/2005_Deux_applications_de_processus_ponctuels_aux.pdf)
+* Mas Machuca, C., Nguyen, H. X., & Thiran, P. (2005). Failure location in WDM networks. _Emerging Optical Network Technologies: Architectures, Protocols and Performance_, 379–399. [[PDF]](/files/2005_Failure_location_in_WDM_networks.pdf)
 
 ### 2004
 
-* Nguyen, H. X., & Thiran, P. (2004). Active measurement for multiple link failures diagnosis in IP networks. _Passive and Active Network Measurement: 5th International Workshop (PAM 2004)_, Antibes Juan-les-Pins, France, 185–194. Springer.
-* Nguyen, H. X., Thiran, P., & Barakat, C. (2004). On the correlation of TCP traffic in backbone networks. _Proceedings of the 2004 IEEE International Symposium on Circuits and Systems (ISCAS 2004)_, 5.
+* Nguyen, H. X., & Thiran, P. (2004). Active measurement for multiple link failures diagnosis in IP networks. _Passive and Active Network Measurement: 5th International Workshop (PAM 2004)_, Antibes Juan-les-Pins, France, 185–194. Springer. [[PDF]](/files/2004_Active_measurement_for_multiple_link_failures.pdf)
+* Nguyen, H. X., Thiran, P., & Barakat, C. (2004). On the correlation of TCP traffic in backbone networks. _Proceedings of the 2004 IEEE International Symposium on Circuits and Systems (ISCAS 2004)_, 5. [[PDF]](/files/2004_On_the_correlation_of_TCP_traffic.pdf)
 * Mas Machuca, C., Nguyen, H. X., & Thiran, P. (2004). _Failure location in WDM networks_.
 
 ### 2001
